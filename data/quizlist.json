@@ -3078,19 +3078,19 @@
     },
     {
       "en": "Resin Brick Slab",
-      "jp": "樹脂レンガ"
-    },
-    {
-      "en": "Resin Brick Stairs",
       "jp": "樹脂レンガのハーフブロック"
     },
     {
-      "en": "Resin Brick Wall",
+      "en": "Resin Brick Stairs",
       "jp": "樹脂レンガの階段"
     },
     {
-      "en": "Resin Bricks",
+      "en": "Resin Brick Wall",
       "jp": "樹脂レンガの塀"
+    },
+    {
+      "en": "Resin Bricks",
+      "jp": "樹脂レンガ"
     },
     {
       "en": "Resin Clump",
