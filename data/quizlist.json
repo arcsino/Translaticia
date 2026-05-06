@@ -1,0 +1,6130 @@
+{
+  "blocks": [
+    {
+      "en": "Acacia Button",
+      "jp": "アカシアのボタン"
+    },
+    {
+      "en": "Acacia Door",
+      "jp": "アカシアのドア"
+    },
+    {
+      "en": "Acacia Fence",
+      "jp": "アカシアのフェンス"
+    },
+    {
+      "en": "Acacia Fence Gate",
+      "jp": "アカシアのフェンスゲート"
+    },
+    {
+      "en": "Acacia Hanging Sign",
+      "jp": "アカシアの吊り看板"
+    },
+    {
+      "en": "Acacia Leaves",
+      "jp": "アカシアの葉"
+    },
+    {
+      "en": "Acacia Log",
+      "jp": "アカシアの原木"
+    },
+    {
+      "en": "Acacia Planks",
+      "jp": "アカシアの板材"
+    },
+    {
+      "en": "Acacia Pressure Plate",
+      "jp": "アカシアの感圧板"
+    },
+    {
+      "en": "Acacia Sapling",
+      "jp": "アカシアの苗木"
+    },
+    {
+      "en": "Acacia Shelf",
+      "jp": "アカシアの棚"
+    },
+    {
+      "en": "Acacia Sign",
+      "jp": "アカシアの看板"
+    },
+    {
+      "en": "Acacia Slab",
+      "jp": "アカシアのハーフブロック"
+    },
+    {
+      "en": "Acacia Stairs",
+      "jp": "アカシアの階段"
+    },
+    {
+      "en": "Acacia Trapdoor",
+      "jp": "アカシアのトラップドア"
+    },
+    {
+      "en": "Acacia Wood",
+      "jp": "アカシアの木"
+    },
+    {
+      "en": "Activator Rail",
+      "jp": "アクティベーターレール"
+    },
+    {
+      "en": "Allium",
+      "jp": "アリウム"
+    },
+    {
+      "en": "Amethyst Cluster",
+      "jp": "アメジストの塊"
+    },
+    {
+      "en": "Ancient Debris",
+      "jp": "古代の残骸"
+    },
+    {
+      "en": "Andesite",
+      "jp": "安山岩"
+    },
+    {
+      "en": "Andesite Slab",
+      "jp": "安山岩のハーフブロック"
+    },
+    {
+      "en": "Andesite Stairs",
+      "jp": "安山岩の階段"
+    },
+    {
+      "en": "Andesite Wall",
+      "jp": "安山岩の塀"
+    },
+    {
+      "en": "Anvil",
+      "jp": "金床"
+    },
+    {
+      "en": "Azalea",
+      "jp": "ツツジ"
+    },
+    {
+      "en": "Azalea Leaves",
+      "jp": "ツツジの葉"
+    },
+    {
+      "en": "Azure Bluet",
+      "jp": "ヒナソウ"
+    },
+    {
+      "en": "Bamboo",
+      "jp": "竹"
+    },
+    {
+      "en": "Bamboo Button",
+      "jp": "竹のボタン"
+    },
+    {
+      "en": "Bamboo Door",
+      "jp": "竹のドア"
+    },
+    {
+      "en": "Bamboo Fence",
+      "jp": "竹のフェンス"
+    },
+    {
+      "en": "Bamboo Fence Gate",
+      "jp": "竹のフェンスゲート"
+    },
+    {
+      "en": "Bamboo Hanging Sign",
+      "jp": "竹の吊り看板"
+    },
+    {
+      "en": "Bamboo Mosaic",
+      "jp": "竹細工"
+    },
+    {
+      "en": "Bamboo Mosaic Slab",
+      "jp": "竹細工のハーフブロック"
+    },
+    {
+      "en": "Bamboo Mosaic Stairs",
+      "jp": "竹細工の階段"
+    },
+    {
+      "en": "Bamboo Planks",
+      "jp": "竹の板材"
+    },
+    {
+      "en": "Bamboo Pressure Plate",
+      "jp": "竹の感圧板"
+    },
+    {
+      "en": "Bamboo Shelf",
+      "jp": "竹の棚"
+    },
+    {
+      "en": "Bamboo Shoot",
+      "jp": "タケノコ"
+    },
+    {
+      "en": "Bamboo Sign",
+      "jp": "竹の看板"
+    },
+    {
+      "en": "Bamboo Slab",
+      "jp": "竹のハーフブロック"
+    },
+    {
+      "en": "Bamboo Stairs",
+      "jp": "竹の階段"
+    },
+    {
+      "en": "Bamboo Trapdoor",
+      "jp": "竹のトラップドア"
+    },
+    {
+      "en": "Barrel",
+      "jp": "樽"
+    },
+    {
+      "en": "Barrier",
+      "jp": "バリアブロック"
+    },
+    {
+      "en": "Basalt",
+      "jp": "玄武岩"
+    },
+    {
+      "en": "Beacon",
+      "jp": "ビーコン"
+    },
+    {
+      "en": "Bedrock",
+      "jp": "岩盤"
+    },
+    {
+      "en": "Bee Nest",
+      "jp": "ミツバチの巣"
+    },
+    {
+      "en": "Beehive",
+      "jp": "養蜂箱"
+    },
+    {
+      "en": "Beetroots",
+      "jp": "ビートルート"
+    },
+    {
+      "en": "Bell",
+      "jp": "鐘"
+    },
+    {
+      "en": "Big Dripleaf",
+      "jp": "大きなドリップリーフ"
+    },
+    {
+      "en": "Birch Button",
+      "jp": "シラカバのボタン"
+    },
+    {
+      "en": "Birch Door",
+      "jp": "シラカバのドア"
+    },
+    {
+      "en": "Birch Fence",
+      "jp": "シラカバのフェンス"
+    },
+    {
+      "en": "Birch Fence Gate",
+      "jp": "シラカバのフェンスゲート"
+    },
+    {
+      "en": "Birch Hanging Sign",
+      "jp": "シラカバの吊り看板"
+    },
+    {
+      "en": "Birch Leaves",
+      "jp": "シラカバの葉"
+    },
+    {
+      "en": "Birch Log",
+      "jp": "シラカバの原木"
+    },
+    {
+      "en": "Birch Planks",
+      "jp": "シラカバの板材"
+    },
+    {
+      "en": "Birch Pressure Plate",
+      "jp": "シラカバの感圧板"
+    },
+    {
+      "en": "Birch Sapling",
+      "jp": "シラカバの苗木"
+    },
+    {
+      "en": "Birch Shelf",
+      "jp": "シラカバの棚"
+    },
+    {
+      "en": "Birch Sign",
+      "jp": "シラカバの看板"
+    },
+    {
+      "en": "Birch Slab",
+      "jp": "シラカバのハーフブロック"
+    },
+    {
+      "en": "Birch Stairs",
+      "jp": "シラカバの階段"
+    },
+    {
+      "en": "Birch Trapdoor",
+      "jp": "シラカバのトラップドア"
+    },
+    {
+      "en": "Birch Wood",
+      "jp": "シラカバの木"
+    },
+    {
+      "en": "Black Banner",
+      "jp": "黒色の旗"
+    },
+    {
+      "en": "Black Bed",
+      "jp": "黒色のベッド"
+    },
+    {
+      "en": "Black Candle",
+      "jp": "黒色のろうそく"
+    },
+    {
+      "en": "Black Carpet",
+      "jp": "黒色のカーペット"
+    },
+    {
+      "en": "Black Concrete",
+      "jp": "黒色のコンクリート"
+    },
+    {
+      "en": "Black Concrete Powder",
+      "jp": "黒色のコンクリートパウダー"
+    },
+    {
+      "en": "Black Glazed Terracotta",
+      "jp": "黒色の彩釉テラコッタ"
+    },
+    {
+      "en": "Black Shulker Box",
+      "jp": "黒色のシュルカーボックス"
+    },
+    {
+      "en": "Black Stained Glass",
+      "jp": "黒色の色付きガラス"
+    },
+    {
+      "en": "Black Stained Glass Pane",
+      "jp": "黒色の色付きガラス板"
+    },
+    {
+      "en": "Black Terracotta",
+      "jp": "黒色のテラコッタ"
+    },
+    {
+      "en": "Black Wool",
+      "jp": "黒色の羊毛"
+    },
+    {
+      "en": "Blackstone",
+      "jp": "ブラックストーン"
+    },
+    {
+      "en": "Blackstone Slab",
+      "jp": "ブラックストーンのハーフブロック"
+    },
+    {
+      "en": "Blackstone Stairs",
+      "jp": "ブラックストーンの階段"
+    },
+    {
+      "en": "Blackstone Wall",
+      "jp": "ブラックストーンの塀"
+    },
+    {
+      "en": "Blast Furnace",
+      "jp": "溶鉱炉"
+    },
+    {
+      "en": "Block of Amethyst",
+      "jp": "アメジストブロック"
+    },
+    {
+      "en": "Block of Bamboo",
+      "jp": "竹ブロック"
+    },
+    {
+      "en": "Block of Coal",
+      "jp": "石炭ブロック"
+    },
+    {
+      "en": "Block of Copper",
+      "jp": "銅ブロック"
+    },
+    {
+      "en": "Block of Diamond",
+      "jp": "ダイヤモンドブロック"
+    },
+    {
+      "en": "Block of Emerald",
+      "jp": "エメラルドブロック"
+    },
+    {
+      "en": "Block of Gold",
+      "jp": "金ブロック"
+    },
+    {
+      "en": "Block of Iron",
+      "jp": "鉄の鎖"
+    },
+    {
+      "en": "Block of Lapis Lazuli",
+      "jp": "ラピスラズリブロック"
+    },
+    {
+      "en": "Block of Netherite",
+      "jp": "ネザライトブロック"
+    },
+    {
+      "en": "Block of Quartz",
+      "jp": "クォーツブロック"
+    },
+    {
+      "en": "Block of Raw Copper",
+      "jp": "銅の原石ブロック"
+    },
+    {
+      "en": "Block of Raw Gold",
+      "jp": "金の原石ブロック"
+    },
+    {
+      "en": "Block of Raw Iron",
+      "jp": "鉄の原石ブロック"
+    },
+    {
+      "en": "Block of Redstone",
+      "jp": "レッドストーンブロック"
+    },
+    {
+      "en": "Block of Resin",
+      "jp": "樹脂ブロック"
+    },
+    {
+      "en": "Block of Stripped Bamboo",
+      "jp": "表皮を剥いだ竹ブロック"
+    },
+    {
+      "en": "Blue Banner",
+      "jp": "青色の旗"
+    },
+    {
+      "en": "Blue Bed",
+      "jp": "青色のベッド"
+    },
+    {
+      "en": "Blue Candle",
+      "jp": "青色のろうそく"
+    },
+    {
+      "en": "Blue Carpet",
+      "jp": "青色のカーペット"
+    },
+    {
+      "en": "Blue Concrete",
+      "jp": "青色のコンクリート"
+    },
+    {
+      "en": "Blue Concrete Powder",
+      "jp": "青色のコンクリートパウダー"
+    },
+    {
+      "en": "Blue Glazed Terracotta",
+      "jp": "青色の彩釉テラコッタ"
+    },
+    {
+      "en": "Blue Ice",
+      "jp": "青氷"
+    },
+    {
+      "en": "Blue Orchid",
+      "jp": "ヒスイラン"
+    },
+    {
+      "en": "Blue Shulker Box",
+      "jp": "青色のシュルカーボックス"
+    },
+    {
+      "en": "Blue Stained Glass",
+      "jp": "青色の色付きガラス"
+    },
+    {
+      "en": "Blue Stained Glass Pane",
+      "jp": "青色の色付きガラス板"
+    },
+    {
+      "en": "Blue Terracotta",
+      "jp": "青色のテラコッタ"
+    },
+    {
+      "en": "Blue Wool",
+      "jp": "青色の羊毛"
+    },
+    {
+      "en": "Bone Block",
+      "jp": "骨ブロック"
+    },
+    {
+      "en": "Bookshelf",
+      "jp": "本棚"
+    },
+    {
+      "en": "Brain Coral",
+      "jp": "ノウサンゴ"
+    },
+    {
+      "en": "Brain Coral Block",
+      "jp": "ノウサンゴブロック"
+    },
+    {
+      "en": "Brain Coral Fan",
+      "jp": "ノウウチワサンゴ"
+    },
+    {
+      "en": "Brewing Stand",
+      "jp": "醸造台"
+    },
+    {
+      "en": "Brick Slab",
+      "jp": "レンガのハーフブロック"
+    },
+    {
+      "en": "Brick Stairs",
+      "jp": "レンガの階段"
+    },
+    {
+      "en": "Brick Wall",
+      "jp": "レンガの塀"
+    },
+    {
+      "en": "Bricks",
+      "jp": "レンガ"
+    },
+    {
+      "en": "Brown Banner",
+      "jp": "茶色の旗"
+    },
+    {
+      "en": "Brown Bed",
+      "jp": "茶色のベッド"
+    },
+    {
+      "en": "Brown Candle",
+      "jp": "茶色のろうそく"
+    },
+    {
+      "en": "Brown Carpet",
+      "jp": "茶色のカーペット"
+    },
+    {
+      "en": "Brown Concrete",
+      "jp": "茶色のコンクリート"
+    },
+    {
+      "en": "Brown Concrete Powder",
+      "jp": "茶色のコンクリートパウダー"
+    },
+    {
+      "en": "Brown Glazed Terracotta",
+      "jp": "茶色の彩釉テラコッタ"
+    },
+    {
+      "en": "Brown Mushroom",
+      "jp": "茶色のキノコ"
+    },
+    {
+      "en": "Brown Mushroom Block",
+      "jp": "茶色のキノコブロック"
+    },
+    {
+      "en": "Brown Shulker Box",
+      "jp": "茶色のシュルカーボックス"
+    },
+    {
+      "en": "Brown Stained Glass",
+      "jp": "茶色の色付きガラス"
+    },
+    {
+      "en": "Brown Stained Glass Pane",
+      "jp": "茶色の色付きガラス板"
+    },
+    {
+      "en": "Brown Terracotta",
+      "jp": "茶色のテラコッタ"
+    },
+    {
+      "en": "Brown Wool",
+      "jp": "茶色の羊毛"
+    },
+    {
+      "en": "Bubble Column",
+      "jp": "気泡柱"
+    },
+    {
+      "en": "Bubble Coral",
+      "jp": "ミズタマサンゴ"
+    },
+    {
+      "en": "Bubble Coral Block",
+      "jp": "ミズタマサンゴブロック"
+    },
+    {
+      "en": "Bubble Coral Fan",
+      "jp": "ミズタマウチワサンゴ"
+    },
+    {
+      "en": "Budding Amethyst",
+      "jp": "芽生えたアメジスト"
+    },
+    {
+      "en": "Bush",
+      "jp": "茂み"
+    },
+    {
+      "en": "Cactus",
+      "jp": "サボテン"
+    },
+    {
+      "en": "Cactus Flower",
+      "jp": "サボテンの花"
+    },
+    {
+      "en": "Cake",
+      "jp": "ケーキ"
+    },
+    {
+      "en": "Calcite",
+      "jp": "方解石"
+    },
+    {
+      "en": "Calibrated Sculk Sensor",
+      "jp": "調律されたスカルクセンサー"
+    },
+    {
+      "en": "Campfire",
+      "jp": "焚き火"
+    },
+    {
+      "en": "Candle",
+      "jp": "ろうそく"
+    },
+    {
+      "en": "Carrots",
+      "jp": "ニンジン"
+    },
+    {
+      "en": "Cartography Table",
+      "jp": "製図台"
+    },
+    {
+      "en": "Carved Pumpkin",
+      "jp": "くり抜かれたカボチャ"
+    },
+    {
+      "en": "Cauldron",
+      "jp": "大釜"
+    },
+    {
+      "en": "Cave Vines",
+      "jp": "洞窟のツタ"
+    },
+    {
+      "en": "Chain Command Block",
+      "jp": "チェーンコマンドブロック"
+    },
+    {
+      "en": "Cherry Button",
+      "jp": "サクラのドア"
+    },
+    {
+      "en": "Cherry Door",
+      "jp": "サクラのフェンス"
+    },
+    {
+      "en": "Cherry Fence",
+      "jp": "サクラのフェンスゲート"
+    },
+    {
+      "en": "Cherry Fence Gate",
+      "jp": "サクラの吊り看板"
+    },
+    {
+      "en": "Cherry Hanging Sign",
+      "jp": "サクラの葉"
+    },
+    {
+      "en": "Cherry Leaves",
+      "jp": "サクラの原木"
+    },
+    {
+      "en": "Cherry Log",
+      "jp": "サクラの板材"
+    },
+    {
+      "en": "Cherry Planks",
+      "jp": "サクラの感圧板"
+    },
+    {
+      "en": "Cherry Pressure Plate",
+      "jp": "サクラの苗木"
+    },
+    {
+      "en": "Cherry Sapling",
+      "jp": "サクラの棚"
+    },
+    {
+      "en": "Cherry Shelf",
+      "jp": "サクラの看板"
+    },
+    {
+      "en": "Cherry Sign",
+      "jp": "サクラのハーフブロック"
+    },
+    {
+      "en": "Cherry Slab",
+      "jp": "サクラの階段"
+    },
+    {
+      "en": "Cherry Stairs",
+      "jp": "サクラのトラップドア"
+    },
+    {
+      "en": "Cherry Trapdoor",
+      "jp": "サクラの木"
+    },
+    {
+      "en": "Cherry Wood",
+      "jp": "チェスト"
+    },
+    {
+      "en": "Chest",
+      "jp": "サクラのボタン"
+    },
+    {
+      "en": "Chipped Anvil",
+      "jp": "欠けた金床"
+    },
+    {
+      "en": "Chiseled Bookshelf",
+      "jp": "模様入りの本棚"
+    },
+    {
+      "en": "Chiseled Copper",
+      "jp": "模様入りの銅"
+    },
+    {
+      "en": "Chiseled Deepslate",
+      "jp": "模様入りの深層岩"
+    },
+    {
+      "en": "Chiseled Nether Bricks",
+      "jp": "模様入りのネザーレンガ"
+    },
+    {
+      "en": "Chiseled Polished Blackstone",
+      "jp": "模様入りの磨かれたブラックストーン"
+    },
+    {
+      "en": "Chiseled Quartz Block",
+      "jp": "模様入りのクォーツブロック"
+    },
+    {
+      "en": "Chiseled Red Sandstone",
+      "jp": "模様入りの赤い砂岩"
+    },
+    {
+      "en": "Chiseled Resin Bricks",
+      "jp": "模様入りの樹脂レンガ"
+    },
+    {
+      "en": "Chiseled Sandstone",
+      "jp": "模様入りの砂岩"
+    },
+    {
+      "en": "Chiseled Stone Bricks",
+      "jp": "模様入りの石レンガ"
+    },
+    {
+      "en": "Chiseled Tuff",
+      "jp": "模様入りの凝灰岩"
+    },
+    {
+      "en": "Chiseled Tuff Bricks",
+      "jp": "模様入りの凝灰岩レンガ"
+    },
+    {
+      "en": "Chorus Flower",
+      "jp": "コーラスフラワー"
+    },
+    {
+      "en": "Chorus Plant",
+      "jp": "コーラスプラント"
+    },
+    {
+      "en": "Clay",
+      "jp": "粘土"
+    },
+    {
+      "en": "Closed Eyeblossom",
+      "jp": "閉じたヒトミソウ"
+    },
+    {
+      "en": "Coal Ore",
+      "jp": "石炭鉱石"
+    },
+    {
+      "en": "Coarse Dirt",
+      "jp": "粗い土"
+    },
+    {
+      "en": "Cobbled Deepslate",
+      "jp": "深層岩の丸石"
+    },
+    {
+      "en": "Cobbled Deepslate Slab",
+      "jp": "深層岩の丸石のハーフブロック"
+    },
+    {
+      "en": "Cobbled Deepslate Stairs",
+      "jp": "深層岩の丸石の階段"
+    },
+    {
+      "en": "Cobbled Deepslate Wall",
+      "jp": "深層岩の丸石の塀"
+    },
+    {
+      "en": "Cobblestone",
+      "jp": "丸石"
+    },
+    {
+      "en": "Cobblestone Slab",
+      "jp": "丸石のハーフブロック"
+    },
+    {
+      "en": "Cobblestone Stairs",
+      "jp": "丸石の階段"
+    },
+    {
+      "en": "Cobblestone Wall",
+      "jp": "丸石の塀"
+    },
+    {
+      "en": "Cobweb",
+      "jp": "クモの巣"
+    },
+    {
+      "en": "Cocoa",
+      "jp": "カカオの実"
+    },
+    {
+      "en": "Command Block",
+      "jp": "コマンドブロック"
+    },
+    {
+      "en": "Composter",
+      "jp": "コンポスター"
+    },
+    {
+      "en": "Conduit",
+      "jp": "コンジット"
+    },
+    {
+      "en": "Copper Bars",
+      "jp": "銅格子"
+    },
+    {
+      "en": "Copper Bulb",
+      "jp": "銅の電球"
+    },
+    {
+      "en": "Copper Chain",
+      "jp": "銅の鎖"
+    },
+    {
+      "en": "Copper Chest",
+      "jp": "銅のチェスト"
+    },
+    {
+      "en": "Copper Door",
+      "jp": "銅のドア"
+    },
+    {
+      "en": "Copper Golem Statue",
+      "jp": "カッパーゴーレムの像"
+    },
+    {
+      "en": "Copper Grate",
+      "jp": "銅の金網"
+    },
+    {
+      "en": "Copper Lantern",
+      "jp": "銅のランタン"
+    },
+    {
+      "en": "Copper Ore",
+      "jp": "銅鉱石"
+    },
+    {
+      "en": "Copper Torch",
+      "jp": "銅の松明"
+    },
+    {
+      "en": "Copper Trapdoor",
+      "jp": "銅のトラップドア"
+    },
+    {
+      "en": "Cornflower",
+      "jp": "ヤグルマギク"
+    },
+    {
+      "en": "Cracked Deepslate Bricks",
+      "jp": "ひび割れた深層岩レンガ"
+    },
+    {
+      "en": "Cracked Deepslate Tiles",
+      "jp": "ひび割れた深層岩タイル"
+    },
+    {
+      "en": "Cracked Nether Bricks",
+      "jp": "ひび割れたネザーレンガ"
+    },
+    {
+      "en": "Cracked Polished Blackstone Bricks",
+      "jp": "ひび割れた磨かれたブラックストーンレンガ"
+    },
+    {
+      "en": "Cracked Stone Bricks",
+      "jp": "ひび割れた石レンガ"
+    },
+    {
+      "en": "Crafter",
+      "jp": "自動作業台"
+    },
+    {
+      "en": "Crafting Table",
+      "jp": "作業台"
+    },
+    {
+      "en": "Creaking Heart",
+      "jp": "クリーキングの心臓"
+    },
+    {
+      "en": "Creeper Head",
+      "jp": "クリーパーの頭"
+    },
+    {
+      "en": "Crimson Button",
+      "jp": "真紅のボタン"
+    },
+    {
+      "en": "Crimson Door",
+      "jp": "真紅のドア"
+    },
+    {
+      "en": "Crimson Fence",
+      "jp": "真紅のフェンス"
+    },
+    {
+      "en": "Crimson Fence Gate",
+      "jp": "真紅のフェンスゲート"
+    },
+    {
+      "en": "Crimson Fungus",
+      "jp": "真紅のキノコ"
+    },
+    {
+      "en": "Crimson Hanging Sign",
+      "jp": "真紅の吊り看板"
+    },
+    {
+      "en": "Crimson Hyphae",
+      "jp": "真紅の菌糸"
+    },
+    {
+      "en": "Crimson Nylium",
+      "jp": "真紅のナイリウム"
+    },
+    {
+      "en": "Crimson Planks",
+      "jp": "真紅の板材"
+    },
+    {
+      "en": "Crimson Pressure Plate",
+      "jp": "真紅の感圧板"
+    },
+    {
+      "en": "Crimson Roots",
+      "jp": "真紅の根"
+    },
+    {
+      "en": "Crimson Shelf",
+      "jp": "真紅の棚"
+    },
+    {
+      "en": "Crimson Sign",
+      "jp": "真紅の看板"
+    },
+    {
+      "en": "Crimson Slab",
+      "jp": "真紅のハーフブロック"
+    },
+    {
+      "en": "Crimson Stairs",
+      "jp": "真紅の階段"
+    },
+    {
+      "en": "Crimson Stem",
+      "jp": "真紅の幹"
+    },
+    {
+      "en": "Crimson Trapdoor",
+      "jp": "真紅のトラップドア"
+    },
+    {
+      "en": "Crying Obsidian",
+      "jp": "泣く黒曜石"
+    },
+    {
+      "en": "Cut Copper",
+      "jp": "切り込み入りの銅"
+    },
+    {
+      "en": "Cut Copper Slab",
+      "jp": "切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Cut Copper Stairs",
+      "jp": "切り込み入りの銅の階段"
+    },
+    {
+      "en": "Cut Red Sandstone",
+      "jp": "研がれた赤い砂岩"
+    },
+    {
+      "en": "Cut Red Sandstone Slab",
+      "jp": "研がれた赤い砂岩のハーフブロック"
+    },
+    {
+      "en": "Cut Sandstone",
+      "jp": "研がれた砂岩"
+    },
+    {
+      "en": "Cut Sandstone Slab",
+      "jp": "研がれた砂岩のハーフブロック"
+    },
+    {
+      "en": "Cyan Banner",
+      "jp": "青緑色の旗"
+    },
+    {
+      "en": "Cyan Bed",
+      "jp": "青緑色のベッド"
+    },
+    {
+      "en": "Cyan Candle",
+      "jp": "青緑色のろうそく"
+    },
+    {
+      "en": "Cyan Carpet",
+      "jp": "青緑色のカーペット"
+    },
+    {
+      "en": "Cyan Concrete",
+      "jp": "青緑色のコンクリート"
+    },
+    {
+      "en": "Cyan Concrete Powder",
+      "jp": "青緑色のコンクリートパウダー"
+    },
+    {
+      "en": "Cyan Glazed Terracotta",
+      "jp": "青緑色の彩釉テラコッタ"
+    },
+    {
+      "en": "Cyan Shulker Box",
+      "jp": "青緑色のシュルカーボックス"
+    },
+    {
+      "en": "Cyan Stained Glass",
+      "jp": "青緑色の色付きガラス"
+    },
+    {
+      "en": "Cyan Stained Glass Pane",
+      "jp": "青緑色の色付きガラス板"
+    },
+    {
+      "en": "Cyan Terracotta",
+      "jp": "青緑色のテラコッタ"
+    },
+    {
+      "en": "Cyan Wool",
+      "jp": "青緑色の羊毛"
+    },
+    {
+      "en": "Damaged Anvil",
+      "jp": "壊れかけの金床"
+    },
+    {
+      "en": "Dandelion",
+      "jp": "タンポポ"
+    },
+    {
+      "en": "Dark Oak Button",
+      "jp": "ダークオークのボタン"
+    },
+    {
+      "en": "Dark Oak Door",
+      "jp": "ダークオークのドア"
+    },
+    {
+      "en": "Dark Oak Fence",
+      "jp": "ダークオークのフェンス"
+    },
+    {
+      "en": "Dark Oak Fence Gate",
+      "jp": "ダークオークのフェンスゲート"
+    },
+    {
+      "en": "Dark Oak Hanging Sign",
+      "jp": "ダークオークの吊り看板"
+    },
+    {
+      "en": "Dark Oak Leaves",
+      "jp": "ダークオークの葉"
+    },
+    {
+      "en": "Dark Oak Log",
+      "jp": "ダークオークの原木"
+    },
+    {
+      "en": "Dark Oak Planks",
+      "jp": "ダークオークの板材"
+    },
+    {
+      "en": "Dark Oak Pressure Plate",
+      "jp": "ダークオークの感圧板"
+    },
+    {
+      "en": "Dark Oak Sapling",
+      "jp": "ダークオークの苗木"
+    },
+    {
+      "en": "Dark Oak Shelf",
+      "jp": "ダークオークの棚"
+    },
+    {
+      "en": "Dark Oak Sign",
+      "jp": "ダークオークの看板"
+    },
+    {
+      "en": "Dark Oak Slab",
+      "jp": "ダークオークのハーフブロック"
+    },
+    {
+      "en": "Dark Oak Stairs",
+      "jp": "ダークオークの階段"
+    },
+    {
+      "en": "Dark Oak Trapdoor",
+      "jp": "ダークオークのトラップドア"
+    },
+    {
+      "en": "Dark Oak Wood",
+      "jp": "ダークオークの木"
+    },
+    {
+      "en": "Dark Prismarine",
+      "jp": "ダークプリズマリン"
+    },
+    {
+      "en": "Dark Prismarine Slab",
+      "jp": "ダークプリズマリンのハーフブロック"
+    },
+    {
+      "en": "Dark Prismarine Stairs",
+      "jp": "ダークプリズマリンの階段"
+    },
+    {
+      "en": "Daylight Detector",
+      "jp": "日照センサー"
+    },
+    {
+      "en": "Dead Brain Coral",
+      "jp": "死んだノウサンゴ"
+    },
+    {
+      "en": "Dead Brain Coral Block",
+      "jp": "死んだノウサンゴブロック"
+    },
+    {
+      "en": "Dead Brain Coral Fan",
+      "jp": "死んだノウウチワサンゴ"
+    },
+    {
+      "en": "Dead Bubble Coral",
+      "jp": "死んだミズタマサンゴ"
+    },
+    {
+      "en": "Dead Bubble Coral Block",
+      "jp": "死んだミズタマサンゴブロック"
+    },
+    {
+      "en": "Dead Bubble Coral Fan",
+      "jp": "死んだミズタマウチワサンゴ"
+    },
+    {
+      "en": "Dead Bush",
+      "jp": "枯れ木"
+    },
+    {
+      "en": "Dead Fire Coral",
+      "jp": "死んだミレポラサンゴ"
+    },
+    {
+      "en": "Dead Fire Coral Block",
+      "jp": "死んだミレポラサンゴブロック"
+    },
+    {
+      "en": "Dead Fire Coral Fan",
+      "jp": "死んだミレポラウチワサンゴ"
+    },
+    {
+      "en": "Dead Horn Coral",
+      "jp": "死んだシカツノサンゴ"
+    },
+    {
+      "en": "Dead Horn Coral Block",
+      "jp": "死んだシカツノサンゴブロック"
+    },
+    {
+      "en": "Dead Horn Coral Fan",
+      "jp": "死んだシカツノウチワサンゴ"
+    },
+    {
+      "en": "Dead Tube Coral",
+      "jp": "死んだクダサンゴ"
+    },
+    {
+      "en": "Dead Tube Coral Block",
+      "jp": "死んだクダサンゴブロック"
+    },
+    {
+      "en": "Dead Tube Coral Fan",
+      "jp": "死んだクダウチワサンゴ"
+    },
+    {
+      "en": "Decorated Pot",
+      "jp": "飾り壺"
+    },
+    {
+      "en": "Deepslate",
+      "jp": "深層岩"
+    },
+    {
+      "en": "Deepslate Brick Slab",
+      "jp": "深層岩レンガのハーフブロック"
+    },
+    {
+      "en": "Deepslate Brick Stairs",
+      "jp": "深層岩レンガの階段"
+    },
+    {
+      "en": "Deepslate Brick Wall",
+      "jp": "深層岩レンガの塀"
+    },
+    {
+      "en": "Deepslate Bricks",
+      "jp": "深層岩レンガ"
+    },
+    {
+      "en": "Deepslate Coal Ore",
+      "jp": "深層石炭鉱石"
+    },
+    {
+      "en": "Deepslate Copper Ore",
+      "jp": "深層銅鉱石"
+    },
+    {
+      "en": "Deepslate Diamond Ore",
+      "jp": "深層ダイヤモンド鉱石"
+    },
+    {
+      "en": "Deepslate Emerald Ore",
+      "jp": "深層エメラルド鉱石"
+    },
+    {
+      "en": "Deepslate Gold Ore",
+      "jp": "深層金鉱石"
+    },
+    {
+      "en": "Deepslate Iron Ore",
+      "jp": "深層鉄鉱石"
+    },
+    {
+      "en": "Deepslate Lapis Lazuli Ore",
+      "jp": "深層ラピスラズリ鉱石"
+    },
+    {
+      "en": "Deepslate Redstone Ore",
+      "jp": "深層レッドストーン鉱石"
+    },
+    {
+      "en": "Deepslate Tile Slab",
+      "jp": "深層岩タイルのハーフブロック"
+    },
+    {
+      "en": "Deepslate Tile Stairs",
+      "jp": "深層岩タイルの階段"
+    },
+    {
+      "en": "Deepslate Tile Wall",
+      "jp": "深層岩タイルの塀"
+    },
+    {
+      "en": "Deepslate Tiles",
+      "jp": "深層岩タイル"
+    },
+    {
+      "en": "Detector Rail",
+      "jp": "ディテクターレール"
+    },
+    {
+      "en": "Diamond Ore",
+      "jp": "ダイヤモンド鉱石"
+    },
+    {
+      "en": "Diorite",
+      "jp": "閃緑岩"
+    },
+    {
+      "en": "Diorite Slab",
+      "jp": "閃緑岩のハーフブロック"
+    },
+    {
+      "en": "Diorite Stairs",
+      "jp": "閃緑岩の階段"
+    },
+    {
+      "en": "Diorite Wall",
+      "jp": "閃緑岩の塀"
+    },
+    {
+      "en": "Dirt",
+      "jp": "土"
+    },
+    {
+      "en": "Dirt Path",
+      "jp": "土の道"
+    },
+    {
+      "en": "Dispenser",
+      "jp": "ディスペンサー"
+    },
+    {
+      "en": "Dragon Egg",
+      "jp": "ドラゴンの卵"
+    },
+    {
+      "en": "Dragon Head",
+      "jp": "ドラゴンの頭"
+    },
+    {
+      "en": "Dried Ghast",
+      "jp": "乾燥したガスト"
+    },
+    {
+      "en": "Dried Kelp Block",
+      "jp": "乾燥した昆布ブロック"
+    },
+    {
+      "en": "Dripstone Block",
+      "jp": "鍾乳石ブロック"
+    },
+    {
+      "en": "Dropper",
+      "jp": "ドロッパー"
+    },
+    {
+      "en": "Emerald Ore",
+      "jp": "エメラルド鉱石"
+    },
+    {
+      "en": "Enchanting Table",
+      "jp": "エンチャントテーブル"
+    },
+    {
+      "en": "End Gateway",
+      "jp": "エンドゲートウェイ"
+    },
+    {
+      "en": "End Portal",
+      "jp": "エンドポータル"
+    },
+    {
+      "en": "End Portal Frame",
+      "jp": "エンドポータルフレーム"
+    },
+    {
+      "en": "End Rod",
+      "jp": "エンドロッド"
+    },
+    {
+      "en": "End Stone",
+      "jp": "エンドストーン"
+    },
+    {
+      "en": "End Stone Brick Slab",
+      "jp": "エンドストーンレンガのハーフブロック"
+    },
+    {
+      "en": "End Stone Brick Stairs",
+      "jp": "エンドストーンレンガの階段"
+    },
+    {
+      "en": "End Stone Brick Wall",
+      "jp": "エンドストーンレンガの塀"
+    },
+    {
+      "en": "End Stone Bricks",
+      "jp": "エンドストーンレンガ"
+    },
+    {
+      "en": "Ender Chest",
+      "jp": "エンダーチェスト"
+    },
+    {
+      "en": "Exposed Chiseled Copper",
+      "jp": "風化した模様入りの銅"
+    },
+    {
+      "en": "Exposed Copper",
+      "jp": "風化した銅"
+    },
+    {
+      "en": "Exposed Copper Bars",
+      "jp": "風化した銅格子"
+    },
+    {
+      "en": "Exposed Copper Bulb",
+      "jp": "風化した銅の電球"
+    },
+    {
+      "en": "Exposed Copper Chain",
+      "jp": "風化した銅の鎖"
+    },
+    {
+      "en": "Exposed Copper Chest",
+      "jp": "風化した銅のチェスト"
+    },
+    {
+      "en": "Exposed Copper Door",
+      "jp": "風化した銅のドア"
+    },
+    {
+      "en": "Exposed Copper Golem Statue",
+      "jp": "風化したカッパーゴーレムの像"
+    },
+    {
+      "en": "Exposed Copper Grate",
+      "jp": "風化した銅の金網"
+    },
+    {
+      "en": "Exposed Copper Lantern",
+      "jp": "風化した銅のランタン"
+    },
+    {
+      "en": "Exposed Copper Trapdoor",
+      "jp": "風化した銅のトラップドア"
+    },
+    {
+      "en": "Exposed Cut Copper",
+      "jp": "風化した切り込み入りの銅"
+    },
+    {
+      "en": "Exposed Cut Copper Slab",
+      "jp": "風化した切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Exposed Cut Copper Stairs",
+      "jp": "風化した切り込み入りの銅の階段"
+    },
+    {
+      "en": "Exposed Lightning Rod",
+      "jp": "風化した避雷針"
+    },
+    {
+      "en": "Farmland",
+      "jp": "耕地"
+    },
+    {
+      "en": "Fern",
+      "jp": "シダ"
+    },
+    {
+      "en": "Fire",
+      "jp": "炎"
+    },
+    {
+      "en": "Fire Coral",
+      "jp": "ミレポラサンゴ"
+    },
+    {
+      "en": "Fire Coral Block",
+      "jp": "ミレポラサンゴブロック"
+    },
+    {
+      "en": "Fire Coral Fan",
+      "jp": "ミレポラウチワサンゴ"
+    },
+    {
+      "en": "Firefly Bush",
+      "jp": "ホタルの茂み"
+    },
+    {
+      "en": "Fletching Table",
+      "jp": "矢細工台"
+    },
+    {
+      "en": "Flower Pot",
+      "jp": "植木鉢"
+    },
+    {
+      "en": "Flowering Azalea",
+      "jp": "開花したツツジ"
+    },
+    {
+      "en": "Flowering Azalea Leaves",
+      "jp": "開花したツツジの葉"
+    },
+    {
+      "en": "Frogspawn",
+      "jp": "カエルの卵"
+    },
+    {
+      "en": "Frosted Ice",
+      "jp": "薄氷"
+    },
+    {
+      "en": "Furnace",
+      "jp": "かまど"
+    },
+    {
+      "en": "Gilded Blackstone",
+      "jp": "きらめくブラックストーン"
+    },
+    {
+      "en": "Glass",
+      "jp": "ガラス"
+    },
+    {
+      "en": "Glass Pane",
+      "jp": "ガラス板"
+    },
+    {
+      "en": "Glow Lichen",
+      "jp": "ヒカリゴケ"
+    },
+    {
+      "en": "Glowstone",
+      "jp": "グロウストーン"
+    },
+    {
+      "en": "Gold Ore",
+      "jp": "金鉱石"
+    },
+    {
+      "en": "Golden Dandelion",
+      "jp": "金のタンポポ"
+    },
+    {
+      "en": "Granite",
+      "jp": "花崗岩"
+    },
+    {
+      "en": "Granite Slab",
+      "jp": "花崗岩のハーフブロック"
+    },
+    {
+      "en": "Granite Stairs",
+      "jp": "花崗岩の階段"
+    },
+    {
+      "en": "Granite Wall",
+      "jp": "花崗岩の塀"
+    },
+    {
+      "en": "Grass Block",
+      "jp": "草ブロック"
+    },
+    {
+      "en": "Gravel",
+      "jp": "砂利"
+    },
+    {
+      "en": "Gray Banner",
+      "jp": "灰色の旗"
+    },
+    {
+      "en": "Gray Bed",
+      "jp": "灰色のベッド"
+    },
+    {
+      "en": "Gray Candle",
+      "jp": "灰色のろうそく"
+    },
+    {
+      "en": "Gray Carpet",
+      "jp": "灰色のカーペット"
+    },
+    {
+      "en": "Gray Concrete",
+      "jp": "灰色のコンクリート"
+    },
+    {
+      "en": "Gray Concrete Powder",
+      "jp": "灰色のコンクリートパウダー"
+    },
+    {
+      "en": "Gray Glazed Terracotta",
+      "jp": "灰色の彩釉テラコッタ"
+    },
+    {
+      "en": "Gray Shulker Box",
+      "jp": "灰色のシュルカーボックス"
+    },
+    {
+      "en": "Gray Stained Glass",
+      "jp": "灰色の色付きガラス"
+    },
+    {
+      "en": "Gray Stained Glass Pane",
+      "jp": "灰色の色付きガラス板"
+    },
+    {
+      "en": "Gray Terracotta",
+      "jp": "灰色のテラコッタ"
+    },
+    {
+      "en": "Gray Wool",
+      "jp": "灰色の羊毛"
+    },
+    {
+      "en": "Green Banner",
+      "jp": "緑色の旗"
+    },
+    {
+      "en": "Green Bed",
+      "jp": "緑色のベッド"
+    },
+    {
+      "en": "Green Candle",
+      "jp": "緑色のろうそく"
+    },
+    {
+      "en": "Green Carpet",
+      "jp": "緑色のカーペット"
+    },
+    {
+      "en": "Green Concrete",
+      "jp": "緑色のコンクリート"
+    },
+    {
+      "en": "Green Concrete Powder",
+      "jp": "緑色のコンクリートパウダー"
+    },
+    {
+      "en": "Green Glazed Terracotta",
+      "jp": "緑色の彩釉テラコッタ"
+    },
+    {
+      "en": "Green Shulker Box",
+      "jp": "緑色のシュルカーボックス"
+    },
+    {
+      "en": "Green Stained Glass",
+      "jp": "緑色の色付きガラス"
+    },
+    {
+      "en": "Green Stained Glass Pane",
+      "jp": "緑色の色付きガラス板"
+    },
+    {
+      "en": "Green Terracotta",
+      "jp": "緑色のテラコッタ"
+    },
+    {
+      "en": "Green Wool",
+      "jp": "緑色の羊毛"
+    },
+    {
+      "en": "Grindstone",
+      "jp": "砥石"
+    },
+    {
+      "en": "Hanging Roots",
+      "jp": "垂れ根"
+    },
+    {
+      "en": "Hay Bale",
+      "jp": "干草の俵"
+    },
+    {
+      "en": "Heavy Core",
+      "jp": "ヘビーコア"
+    },
+    {
+      "en": "Heavy Weighted Pressure Plate",
+      "jp": "重量用感圧板"
+    },
+    {
+      "en": "Honey Block",
+      "jp": "ハチミツブロック"
+    },
+    {
+      "en": "Honeycomb Block",
+      "jp": "ハニカムブロック"
+    },
+    {
+      "en": "Hopper",
+      "jp": "ホッパー"
+    },
+    {
+      "en": "Horn Coral",
+      "jp": "シカツノサンゴ"
+    },
+    {
+      "en": "Horn Coral Block",
+      "jp": "シカツノサンゴブロック"
+    },
+    {
+      "en": "Horn Coral Fan",
+      "jp": "シカツノウチワサンゴ"
+    },
+    {
+      "en": "Ice",
+      "jp": "氷"
+    },
+    {
+      "en": "Infested Chiseled Stone Bricks",
+      "jp": "模様入りの虫食い石レンガ"
+    },
+    {
+      "en": "Infested Cobblestone",
+      "jp": "虫食い丸石"
+    },
+    {
+      "en": "Infested Cracked Stone Bricks",
+      "jp": "ひび割れた虫食い石レンガ"
+    },
+    {
+      "en": "Infested Deepslate",
+      "jp": "虫食い深層岩"
+    },
+    {
+      "en": "Infested Mossy Stone Bricks",
+      "jp": "苔むした虫食い石レンガ"
+    },
+    {
+      "en": "Infested Stone",
+      "jp": "虫食い石"
+    },
+    {
+      "en": "Infested Stone Bricks",
+      "jp": "虫食い石レンガ"
+    },
+    {
+      "en": "Iron Bars",
+      "jp": "鉄格子"
+    },
+    {
+      "en": "Iron Chain",
+      "jp": "鉄ブロック"
+    },
+    {
+      "en": "Iron Door",
+      "jp": "鉄のドア"
+    },
+    {
+      "en": "Iron Ore",
+      "jp": "鉄鉱石"
+    },
+    {
+      "en": "Iron Trapdoor",
+      "jp": "鉄のトラップドア"
+    },
+    {
+      "en": "Jack o'Lantern",
+      "jp": "ジャック・オ・ランタン"
+    },
+    {
+      "en": "Jigsaw Block",
+      "jp": "ジグソーブロック"
+    },
+    {
+      "en": "Jukebox",
+      "jp": "ジュークボックス"
+    },
+    {
+      "en": "Jungle Button",
+      "jp": "ジャングルのボタン"
+    },
+    {
+      "en": "Jungle Door",
+      "jp": "ジャングルのドア"
+    },
+    {
+      "en": "Jungle Fence",
+      "jp": "ジャングルのフェンス"
+    },
+    {
+      "en": "Jungle Fence Gate",
+      "jp": "ジャングルのフェンスゲート"
+    },
+    {
+      "en": "Jungle Hanging Sign",
+      "jp": "ジャングルの吊り看板"
+    },
+    {
+      "en": "Jungle Leaves",
+      "jp": "ジャングルの葉"
+    },
+    {
+      "en": "Jungle Log",
+      "jp": "ジャングルの原木"
+    },
+    {
+      "en": "Jungle Planks",
+      "jp": "ジャングルの板材"
+    },
+    {
+      "en": "Jungle Pressure Plate",
+      "jp": "ジャングルの感圧板"
+    },
+    {
+      "en": "Jungle Sapling",
+      "jp": "ジャングルの苗木"
+    },
+    {
+      "en": "Jungle Shelf",
+      "jp": "ジャングルの棚"
+    },
+    {
+      "en": "Jungle Sign",
+      "jp": "ジャングルの看板"
+    },
+    {
+      "en": "Jungle Slab",
+      "jp": "ジャングルのハーフブロック"
+    },
+    {
+      "en": "Jungle Stairs",
+      "jp": "ジャングルの階段"
+    },
+    {
+      "en": "Jungle Trapdoor",
+      "jp": "ジャングルのトラップドア"
+    },
+    {
+      "en": "Jungle Wood",
+      "jp": "ジャングルの木"
+    },
+    {
+      "en": "Kelp",
+      "jp": "コンブ"
+    },
+    {
+      "en": "Ladder",
+      "jp": "はしご"
+    },
+    {
+      "en": "Lantern",
+      "jp": "ランタン"
+    },
+    {
+      "en": "Lapis Lazuli Ore",
+      "jp": "ラピスラズリ鉱石"
+    },
+    {
+      "en": "Large Amethyst Bud",
+      "jp": "大きなアメジストの芽"
+    },
+    {
+      "en": "Large Fern",
+      "jp": "大きなシダ"
+    },
+    {
+      "en": "Lava",
+      "jp": "溶岩"
+    },
+    {
+      "en": "Leaf Litter",
+      "jp": "落ち葉"
+    },
+    {
+      "en": "Lectern",
+      "jp": "書見台"
+    },
+    {
+      "en": "Lever",
+      "jp": "レバー"
+    },
+    {
+      "en": "Light",
+      "jp": "ライトブロック"
+    },
+    {
+      "en": "Light Blue Banner",
+      "jp": "空色の旗"
+    },
+    {
+      "en": "Light Blue Bed",
+      "jp": "空色のベッド"
+    },
+    {
+      "en": "Light Blue Candle",
+      "jp": "空色のろうそく"
+    },
+    {
+      "en": "Light Blue Carpet",
+      "jp": "空色のカーペット"
+    },
+    {
+      "en": "Light Blue Concrete",
+      "jp": "空色のコンクリート"
+    },
+    {
+      "en": "Light Blue Concrete Powder",
+      "jp": "空色のコンクリートパウダー"
+    },
+    {
+      "en": "Light Blue Glazed Terracotta",
+      "jp": "空色の彩釉テラコッタ"
+    },
+    {
+      "en": "Light Blue Shulker Box",
+      "jp": "空色のシュルカーボックス"
+    },
+    {
+      "en": "Light Blue Stained Glass",
+      "jp": "空色の色付きガラス"
+    },
+    {
+      "en": "Light Blue Stained Glass Pane",
+      "jp": "空色の色付きガラス板"
+    },
+    {
+      "en": "Light Blue Terracotta",
+      "jp": "空色のテラコッタ"
+    },
+    {
+      "en": "Light Blue Wool",
+      "jp": "空色の羊毛"
+    },
+    {
+      "en": "Light Gray Banner",
+      "jp": "薄灰色の旗"
+    },
+    {
+      "en": "Light Gray Bed",
+      "jp": "薄灰色のベッド"
+    },
+    {
+      "en": "Light Gray Candle",
+      "jp": "薄灰色のろうそく"
+    },
+    {
+      "en": "Light Gray Carpet",
+      "jp": "薄灰色のカーペット"
+    },
+    {
+      "en": "Light Gray Concrete",
+      "jp": "薄灰色のコンクリート"
+    },
+    {
+      "en": "Light Gray Concrete Powder",
+      "jp": "薄灰色のコンクリートパウダー"
+    },
+    {
+      "en": "Light Gray Glazed Terracotta",
+      "jp": "薄灰色の彩釉テラコッタ"
+    },
+    {
+      "en": "Light Gray Shulker Box",
+      "jp": "薄灰色のシュルカーボックス"
+    },
+    {
+      "en": "Light Gray Stained Glass",
+      "jp": "薄灰色の色付きガラス"
+    },
+    {
+      "en": "Light Gray Stained Glass Pane",
+      "jp": "薄灰色の色付きガラス板"
+    },
+    {
+      "en": "Light Gray Terracotta",
+      "jp": "薄灰色のテラコッタ"
+    },
+    {
+      "en": "Light Gray Wool",
+      "jp": "薄灰色の羊毛"
+    },
+    {
+      "en": "Light Weighted Pressure Plate",
+      "jp": "軽量用感圧板"
+    },
+    {
+      "en": "Lightning Rod",
+      "jp": "避雷針"
+    },
+    {
+      "en": "Lilac",
+      "jp": "ライラック"
+    },
+    {
+      "en": "Lily of the Valley",
+      "jp": "スズラン"
+    },
+    {
+      "en": "Lily Pad",
+      "jp": "スイレンの葉"
+    },
+    {
+      "en": "Lime Banner",
+      "jp": "黄緑色の旗"
+    },
+    {
+      "en": "Lime Bed",
+      "jp": "黄緑色のベッド"
+    },
+    {
+      "en": "Lime Candle",
+      "jp": "黄緑色のろうそく"
+    },
+    {
+      "en": "Lime Carpet",
+      "jp": "黄緑色のカーペット"
+    },
+    {
+      "en": "Lime Concrete",
+      "jp": "黄緑色のコンクリート"
+    },
+    {
+      "en": "Lime Concrete Powder",
+      "jp": "黄緑色のコンクリートパウダー"
+    },
+    {
+      "en": "Lime Glazed Terracotta",
+      "jp": "黄緑色の彩釉テラコッタ"
+    },
+    {
+      "en": "Lime Shulker Box",
+      "jp": "黄緑色のシュルカーボックス"
+    },
+    {
+      "en": "Lime Stained Glass",
+      "jp": "黄緑色の色付きガラス"
+    },
+    {
+      "en": "Lime Stained Glass Pane",
+      "jp": "黄緑色の色付きガラス板"
+    },
+    {
+      "en": "Lime Terracotta",
+      "jp": "黄緑色のテラコッタ"
+    },
+    {
+      "en": "Lime Wool",
+      "jp": "黄緑色の羊毛"
+    },
+    {
+      "en": "Lodestone",
+      "jp": "ロードストーン"
+    },
+    {
+      "en": "Loom",
+      "jp": "機織り機"
+    },
+    {
+      "en": "Magenta Banner",
+      "jp": "赤紫色の旗"
+    },
+    {
+      "en": "Magenta Bed",
+      "jp": "赤紫色のベッド"
+    },
+    {
+      "en": "Magenta Candle",
+      "jp": "赤紫色のろうそく"
+    },
+    {
+      "en": "Magenta Carpet",
+      "jp": "赤紫色のカーペット"
+    },
+    {
+      "en": "Magenta Concrete",
+      "jp": "赤紫色のコンクリート"
+    },
+    {
+      "en": "Magenta Concrete Powder",
+      "jp": "赤紫色のコンクリートパウダー"
+    },
+    {
+      "en": "Magenta Glazed Terracotta",
+      "jp": "赤紫色の彩釉テラコッタ"
+    },
+    {
+      "en": "Magenta Shulker Box",
+      "jp": "赤紫色のシュルカーボックス"
+    },
+    {
+      "en": "Magenta Stained Glass",
+      "jp": "赤紫色の色付きガラス"
+    },
+    {
+      "en": "Magenta Stained Glass Pane",
+      "jp": "赤紫色の色付きガラス板"
+    },
+    {
+      "en": "Magenta Terracotta",
+      "jp": "赤紫色のテラコッタ"
+    },
+    {
+      "en": "Magenta Wool",
+      "jp": "赤紫色の羊毛"
+    },
+    {
+      "en": "Magma Block",
+      "jp": "マグマブロック"
+    },
+    {
+      "en": "Mangrove Button",
+      "jp": "マングローブのボタン"
+    },
+    {
+      "en": "Mangrove Door",
+      "jp": "マングローブのドア"
+    },
+    {
+      "en": "Mangrove Fence",
+      "jp": "マングローブのフェンス"
+    },
+    {
+      "en": "Mangrove Fence Gate",
+      "jp": "マングローブのフェンスゲート"
+    },
+    {
+      "en": "Mangrove Hanging Sign",
+      "jp": "マングローブの吊り看板"
+    },
+    {
+      "en": "Mangrove Leaves",
+      "jp": "マングローブの葉"
+    },
+    {
+      "en": "Mangrove Log",
+      "jp": "マングローブの原木"
+    },
+    {
+      "en": "Mangrove Planks",
+      "jp": "マングローブの芽"
+    },
+    {
+      "en": "Mangrove Pressure Plate",
+      "jp": "マングローブの板材"
+    },
+    {
+      "en": "Mangrove Propagule",
+      "jp": "マングローブの感圧板"
+    },
+    {
+      "en": "Mangrove Roots",
+      "jp": "マングローブの根"
+    },
+    {
+      "en": "Mangrove Shelf",
+      "jp": "マングローブの棚"
+    },
+    {
+      "en": "Mangrove Sign",
+      "jp": "マングローブの看板"
+    },
+    {
+      "en": "Mangrove Slab",
+      "jp": "マングローブのハーフブロック"
+    },
+    {
+      "en": "Mangrove Stairs",
+      "jp": "マングローブの階段"
+    },
+    {
+      "en": "Mangrove Trapdoor",
+      "jp": "マングローブのトラップドア"
+    },
+    {
+      "en": "Mangrove Wood",
+      "jp": "マングローブの木"
+    },
+    {
+      "en": "Medium Amethyst Bud",
+      "jp": "中くらいのアメジストの芽"
+    },
+    {
+      "en": "Melon",
+      "jp": "スイカ"
+    },
+    {
+      "en": "Melon Stem",
+      "jp": "スイカの茎"
+    },
+    {
+      "en": "Monster Spawner",
+      "jp": "モンスタースポナー"
+    },
+    {
+      "en": "Moss Block",
+      "jp": "苔ブロック"
+    },
+    {
+      "en": "Moss Carpet",
+      "jp": "苔ブロック"
+    },
+    {
+      "en": "Mossy Cobblestone",
+      "jp": "苔むした丸石"
+    },
+    {
+      "en": "Mossy Cobblestone Slab",
+      "jp": "苔むした丸石のハーフブロック"
+    },
+    {
+      "en": "Mossy Cobblestone Stairs",
+      "jp": "苔むした丸石の階段"
+    },
+    {
+      "en": "Mossy Cobblestone Wall",
+      "jp": "苔むした丸石の塀"
+    },
+    {
+      "en": "Mossy Stone Brick Slab",
+      "jp": "苔むした石レンガのハーフブロック"
+    },
+    {
+      "en": "Mossy Stone Brick Stairs",
+      "jp": "苔むした石レンガの階段"
+    },
+    {
+      "en": "Mossy Stone Brick Wall",
+      "jp": "苔むした石レンガの塀"
+    },
+    {
+      "en": "Mossy Stone Bricks",
+      "jp": "苔むした石レンガ"
+    },
+    {
+      "en": "Mud",
+      "jp": "泥"
+    },
+    {
+      "en": "Mud Brick Slab",
+      "jp": "泥レンガのハーフブロック"
+    },
+    {
+      "en": "Mud Brick Stairs",
+      "jp": "泥レンガの階段"
+    },
+    {
+      "en": "Mud Brick Wall",
+      "jp": "泥レンガの塀"
+    },
+    {
+      "en": "Mud Bricks",
+      "jp": "泥レンガ"
+    },
+    {
+      "en": "Muddy Mangrove Roots",
+      "jp": "泥だらけのマングローブの根"
+    },
+    {
+      "en": "Mushroom Stem",
+      "jp": "キノコの柄"
+    },
+    {
+      "en": "Mycelium",
+      "jp": "菌糸"
+    },
+    {
+      "en": "Nether Brick Fence",
+      "jp": "ネザーレンガのフェンス"
+    },
+    {
+      "en": "Nether Brick Slab",
+      "jp": "ネザーレンガのハーフブロック"
+    },
+    {
+      "en": "Nether Brick Stairs",
+      "jp": "ネザーレンガの階段"
+    },
+    {
+      "en": "Nether Brick Wall",
+      "jp": "ネザーレンガの塀"
+    },
+    {
+      "en": "Nether Bricks",
+      "jp": "ネザーレンガ"
+    },
+    {
+      "en": "Nether Gold Ore",
+      "jp": "ネザー金鉱石"
+    },
+    {
+      "en": "Nether Portal",
+      "jp": "ネザーポータル"
+    },
+    {
+      "en": "Nether Quartz Ore",
+      "jp": "ネザークォーツ鉱石"
+    },
+    {
+      "en": "Nether Sprouts",
+      "jp": "ネザースプラウト"
+    },
+    {
+      "en": "Nether Wart",
+      "jp": "ネザーウォート"
+    },
+    {
+      "en": "Nether Wart Block",
+      "jp": "ネザーウォートブロック"
+    },
+    {
+      "en": "Netherrack",
+      "jp": "ネザーラック"
+    },
+    {
+      "en": "Note Block",
+      "jp": "音符ブロック"
+    },
+    {
+      "en": "Oak Button",
+      "jp": "オークのボタン"
+    },
+    {
+      "en": "Oak Door",
+      "jp": "オークのドア"
+    },
+    {
+      "en": "Oak Fence",
+      "jp": "オークのフェンス"
+    },
+    {
+      "en": "Oak Fence Gate",
+      "jp": "オークのフェンスゲート"
+    },
+    {
+      "en": "Oak Hanging Sign",
+      "jp": "オークの吊り看板"
+    },
+    {
+      "en": "Oak Leaves",
+      "jp": "オークの葉"
+    },
+    {
+      "en": "Oak Log",
+      "jp": "オークの原木"
+    },
+    {
+      "en": "Oak Planks",
+      "jp": "オークの板材"
+    },
+    {
+      "en": "Oak Pressure Plate",
+      "jp": "オークの感圧板"
+    },
+    {
+      "en": "Oak Sapling",
+      "jp": "オークの苗木"
+    },
+    {
+      "en": "Oak Shelf",
+      "jp": "オークの棚"
+    },
+    {
+      "en": "Oak Sign",
+      "jp": "オークの看板"
+    },
+    {
+      "en": "Oak Slab",
+      "jp": "オークのハーフブロック"
+    },
+    {
+      "en": "Oak Stairs",
+      "jp": "オークの階段"
+    },
+    {
+      "en": "Oak Trapdoor",
+      "jp": "オークのトラップドア"
+    },
+    {
+      "en": "Oak Wood",
+      "jp": "オークの木"
+    },
+    {
+      "en": "Observer",
+      "jp": "オブザーバー"
+    },
+    {
+      "en": "Obsidian",
+      "jp": "黒曜石"
+    },
+    {
+      "en": "Ochre Froglight",
+      "jp": "黄土色のフロッグライト"
+    },
+    {
+      "en": "Ominous Banner",
+      "jp": "不吉な旗"
+    },
+    {
+      "en": "Open Eyeblossom",
+      "jp": "開いたヒトミソウ"
+    },
+    {
+      "en": "Orange Banner",
+      "jp": "橙色の旗"
+    },
+    {
+      "en": "Orange Bed",
+      "jp": "橙色のベッド"
+    },
+    {
+      "en": "Orange Candle",
+      "jp": "橙色のろうそく"
+    },
+    {
+      "en": "Orange Carpet",
+      "jp": "橙色のカーペット"
+    },
+    {
+      "en": "Orange Concrete",
+      "jp": "橙色のコンクリート"
+    },
+    {
+      "en": "Orange Concrete Powder",
+      "jp": "橙色のコンクリートパウダー"
+    },
+    {
+      "en": "Orange Glazed Terracotta",
+      "jp": "橙色の彩釉テラコッタ"
+    },
+    {
+      "en": "Orange Shulker Box",
+      "jp": "橙色のシュルカーボックス"
+    },
+    {
+      "en": "Orange Stained Glass",
+      "jp": "橙色の色付きガラス"
+    },
+    {
+      "en": "Orange Stained Glass Pane",
+      "jp": "橙色の色付きガラス板"
+    },
+    {
+      "en": "Orange Terracotta",
+      "jp": "橙色のテラコッタ"
+    },
+    {
+      "en": "Orange Tulip",
+      "jp": "橙色のチューリップ"
+    },
+    {
+      "en": "Orange Wool",
+      "jp": "橙色の羊毛"
+    },
+    {
+      "en": "Oxeye Daisy",
+      "jp": "フランスギク"
+    },
+    {
+      "en": "Oxidized Chiseled Copper",
+      "jp": "酸化した模様入りの銅"
+    },
+    {
+      "en": "Oxidized Copper",
+      "jp": "酸化した銅"
+    },
+    {
+      "en": "Oxidized Copper Bars",
+      "jp": "酸化した銅格子"
+    },
+    {
+      "en": "Oxidized Copper Bulb",
+      "jp": "酸化した銅の電球"
+    },
+    {
+      "en": "Oxidized Copper Chain",
+      "jp": "酸化した銅の鎖"
+    },
+    {
+      "en": "Oxidized Copper Chest",
+      "jp": "酸化した銅のチェスト"
+    },
+    {
+      "en": "Oxidized Copper Door",
+      "jp": "酸化した銅のドア"
+    },
+    {
+      "en": "Oxidized Copper Golem Statue",
+      "jp": "酸化したカッパーゴーレムの像"
+    },
+    {
+      "en": "Oxidized Copper Grate",
+      "jp": "酸化した銅の金網"
+    },
+    {
+      "en": "Oxidized Copper Lantern",
+      "jp": "酸化した銅のランタン"
+    },
+    {
+      "en": "Oxidized Copper Trapdoor",
+      "jp": "酸化した銅のトラップドア"
+    },
+    {
+      "en": "Oxidized Cut Copper",
+      "jp": "酸化した切り込み入りの銅"
+    },
+    {
+      "en": "Oxidized Cut Copper Slab",
+      "jp": "酸化した切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Oxidized Cut Copper Stairs",
+      "jp": "酸化した切り込み入りの銅の階段"
+    },
+    {
+      "en": "Oxidized Lightning Rod",
+      "jp": "酸化した避雷針"
+    },
+    {
+      "en": "Packed Ice",
+      "jp": "氷塊"
+    },
+    {
+      "en": "Packed Mud",
+      "jp": "固めた泥"
+    },
+    {
+      "en": "Pale Hanging Moss",
+      "jp": "色あせた垂れ苔"
+    },
+    {
+      "en": "Pale Moss Block",
+      "jp": "色あせた苔ブロック"
+    },
+    {
+      "en": "Pale Moss Carpet",
+      "jp": "色あせた苔のカーペット"
+    },
+    {
+      "en": "Pale Oak Button",
+      "jp": "ペールオークのボタン"
+    },
+    {
+      "en": "Pale Oak Door",
+      "jp": "ペールオークのドア"
+    },
+    {
+      "en": "Pale Oak Fence",
+      "jp": "ペールオークのフェンス"
+    },
+    {
+      "en": "Pale Oak Fence Gate",
+      "jp": "ペールオークのフェンスゲート"
+    },
+    {
+      "en": "Pale Oak Hanging Sign",
+      "jp": "ペールオークの吊り看板"
+    },
+    {
+      "en": "Pale Oak Leaves",
+      "jp": "ペールオークの葉"
+    },
+    {
+      "en": "Pale Oak Log",
+      "jp": "ペールオークの原木"
+    },
+    {
+      "en": "Pale Oak Planks",
+      "jp": "ペールオークの板材"
+    },
+    {
+      "en": "Pale Oak Pressure Plate",
+      "jp": "ペールオークの感圧板"
+    },
+    {
+      "en": "Pale Oak Sapling",
+      "jp": "ペールオークの苗木"
+    },
+    {
+      "en": "Pale Oak Shelf",
+      "jp": "ペールオークの棚"
+    },
+    {
+      "en": "Pale Oak Sign",
+      "jp": "ペールオークの看板"
+    },
+    {
+      "en": "Pale Oak Slab",
+      "jp": "ペールオークのハーフブロック"
+    },
+    {
+      "en": "Pale Oak Stairs",
+      "jp": "ペールオークの階段"
+    },
+    {
+      "en": "Pale Oak Trapdoor",
+      "jp": "ペールオークのトラップドア"
+    },
+    {
+      "en": "Pale Oak Wood",
+      "jp": "ペールオークの木"
+    },
+    {
+      "en": "Pearlescent Froglight",
+      "jp": "真珠色のフロッグライト"
+    },
+    {
+      "en": "Peony",
+      "jp": "ボタン"
+    },
+    {
+      "en": "Petrified Oak Slab",
+      "jp": "石化したオークのハーフブロック"
+    },
+    {
+      "en": "Piglin Head",
+      "jp": "ピグリンの頭"
+    },
+    {
+      "en": "Pink Banner",
+      "jp": "桃色の旗"
+    },
+    {
+      "en": "Pink Bed",
+      "jp": "桃色のベッド"
+    },
+    {
+      "en": "Pink Candle",
+      "jp": "桃色のろうそく"
+    },
+    {
+      "en": "Pink Carpet",
+      "jp": "桃色のカーペット"
+    },
+    {
+      "en": "Pink Concrete",
+      "jp": "桃色のコンクリート"
+    },
+    {
+      "en": "Pink Concrete Powder",
+      "jp": "桃色のコンクリートパウダー"
+    },
+    {
+      "en": "Pink Glazed Terracotta",
+      "jp": "桜色の花びら"
+    },
+    {
+      "en": "Pink Petals",
+      "jp": "桃色の彩釉テラコッタ"
+    },
+    {
+      "en": "Pink Shulker Box",
+      "jp": "桃色のシュルカーボックス"
+    },
+    {
+      "en": "Pink Stained Glass",
+      "jp": "桃色の色付きガラス"
+    },
+    {
+      "en": "Pink Stained Glass Pane",
+      "jp": "桃色の色付きガラス板"
+    },
+    {
+      "en": "Pink Terracotta",
+      "jp": "桃色のテラコッタ"
+    },
+    {
+      "en": "Pink Tulip",
+      "jp": "桃色のチューリップ"
+    },
+    {
+      "en": "Pink Wool",
+      "jp": "桃色の羊毛"
+    },
+    {
+      "en": "Piston",
+      "jp": "ウツボカズラ"
+    },
+    {
+      "en": "Pitcher Crop",
+      "jp": "ウツボカズラ"
+    },
+    {
+      "en": "Pitcher Plant",
+      "jp": "ピストン"
+    },
+    {
+      "en": "Player Head",
+      "jp": "プレイヤーの頭"
+    },
+    {
+      "en": "Podzol",
+      "jp": "ポドゾル"
+    },
+    {
+      "en": "Pointed Dripstone",
+      "jp": "鍾乳石"
+    },
+    {
+      "en": "Polished Andesite",
+      "jp": "磨かれた安山岩"
+    },
+    {
+      "en": "Polished Andesite Slab",
+      "jp": "磨かれた安山岩のハーフブロック"
+    },
+    {
+      "en": "Polished Andesite Stairs",
+      "jp": "磨かれた安山岩の階段"
+    },
+    {
+      "en": "Polished Basalt",
+      "jp": "磨かれた玄武岩"
+    },
+    {
+      "en": "Polished Blackstone",
+      "jp": "磨かれたブラックストーン"
+    },
+    {
+      "en": "Polished Blackstone Brick Slab",
+      "jp": "磨かれたブラックストーンレンガのハーフブロック"
+    },
+    {
+      "en": "Polished Blackstone Brick Stairs",
+      "jp": "磨かれたブラックストーンレンガの階段"
+    },
+    {
+      "en": "Polished Blackstone Brick Wall",
+      "jp": "磨かれたブラックストーンレンガの塀"
+    },
+    {
+      "en": "Polished Blackstone Bricks",
+      "jp": "磨かれたブラックストーンレンガ"
+    },
+    {
+      "en": "Polished Blackstone Button",
+      "jp": "磨かれたブラックストーンのボタン"
+    },
+    {
+      "en": "Polished Blackstone Pressure Plate",
+      "jp": "磨かれたブラックストーンの感圧板"
+    },
+    {
+      "en": "Polished Blackstone Slab",
+      "jp": "磨かれたブラックストーンのハーフブロック"
+    },
+    {
+      "en": "Polished Blackstone Stairs",
+      "jp": "磨かれたブラックストーンの階段"
+    },
+    {
+      "en": "Polished Blackstone Wall",
+      "jp": "磨かれたブラックストーンの塀"
+    },
+    {
+      "en": "Polished Deepslate",
+      "jp": "磨かれた閃緑岩"
+    },
+    {
+      "en": "Polished Deepslate Slab",
+      "jp": "磨かれた閃緑岩のハーフブロック"
+    },
+    {
+      "en": "Polished Deepslate Stairs",
+      "jp": "磨かれた閃緑岩の階段"
+    },
+    {
+      "en": "Polished Deepslate Wall",
+      "jp": "磨かれた花崗岩"
+    },
+    {
+      "en": "Polished Diorite",
+      "jp": "磨かれた花崗岩のハーフブロック"
+    },
+    {
+      "en": "Polished Diorite Slab",
+      "jp": "磨かれた花崗岩の階段"
+    },
+    {
+      "en": "Polished Diorite Stairs",
+      "jp": "磨かれた深層岩"
+    },
+    {
+      "en": "Polished Granite",
+      "jp": "磨かれた深層岩のハーフブロック"
+    },
+    {
+      "en": "Polished Granite Slab",
+      "jp": "磨かれた深層岩の階段"
+    },
+    {
+      "en": "Polished Granite Stairs",
+      "jp": "磨かれた深層岩の塀"
+    },
+    {
+      "en": "Polished Tuff",
+      "jp": "磨かれた凝灰岩"
+    },
+    {
+      "en": "Polished Tuff Slab",
+      "jp": "磨かれた凝灰岩のハーフブロック"
+    },
+    {
+      "en": "Polished Tuff Stairs",
+      "jp": "磨かれた凝灰岩の階段"
+    },
+    {
+      "en": "Polished Tuff Wall",
+      "jp": "磨かれた凝灰岩の塀"
+    },
+    {
+      "en": "Poppy",
+      "jp": "ポピー"
+    },
+    {
+      "en": "Potatoes",
+      "jp": "ジャガイモ"
+    },
+    {
+      "en": "Powder Snow",
+      "jp": "粉雪"
+    },
+    {
+      "en": "Powered Rail",
+      "jp": "パワードレール"
+    },
+    {
+      "en": "Prismarine",
+      "jp": "プリズマリン"
+    },
+    {
+      "en": "Prismarine Brick Slab",
+      "jp": "プリズマリンレンガのハーフブロック"
+    },
+    {
+      "en": "Prismarine Brick Stairs",
+      "jp": "プリズマリンレンガの階段"
+    },
+    {
+      "en": "Prismarine Bricks",
+      "jp": "プリズマリンレンガ"
+    },
+    {
+      "en": "Prismarine Slab",
+      "jp": "プリズマリンのハーフブロック"
+    },
+    {
+      "en": "Prismarine Stairs",
+      "jp": "プリズマリンの階段"
+    },
+    {
+      "en": "Prismarine Wall",
+      "jp": "プリズマリンの塀"
+    },
+    {
+      "en": "Pumpkin",
+      "jp": "カボチャ"
+    },
+    {
+      "en": "Pumpkin Stem",
+      "jp": "カボチャの茎"
+    },
+    {
+      "en": "Purple Banner",
+      "jp": "紫色の旗"
+    },
+    {
+      "en": "Purple Bed",
+      "jp": "紫色のベッド"
+    },
+    {
+      "en": "Purple Candle",
+      "jp": "紫色のろうそく"
+    },
+    {
+      "en": "Purple Carpet",
+      "jp": "紫色のカーペット"
+    },
+    {
+      "en": "Purple Concrete",
+      "jp": "紫色のコンクリート"
+    },
+    {
+      "en": "Purple Concrete Powder",
+      "jp": "紫色のコンクリートパウダー"
+    },
+    {
+      "en": "Purple Glazed Terracotta",
+      "jp": "紫色の彩釉テラコッタ"
+    },
+    {
+      "en": "Purple Shulker Box",
+      "jp": "紫色のシュルカーボックス"
+    },
+    {
+      "en": "Purple Stained Glass",
+      "jp": "紫色の色付きガラス"
+    },
+    {
+      "en": "Purple Stained Glass Pane",
+      "jp": "紫色の色付きガラス板"
+    },
+    {
+      "en": "Purple Terracotta",
+      "jp": "紫色のテラコッタ"
+    },
+    {
+      "en": "Purple Wool",
+      "jp": "紫色の羊毛"
+    },
+    {
+      "en": "Purpur Block",
+      "jp": "プルプァブロック"
+    },
+    {
+      "en": "Purpur Pillar",
+      "jp": "プルプァの柱"
+    },
+    {
+      "en": "Purpur Slab",
+      "jp": "プルプァのハーフブロック"
+    },
+    {
+      "en": "Purpur Stairs",
+      "jp": "プルプァの階段"
+    },
+    {
+      "en": "Quartz Bricks",
+      "jp": "クォーツレンガ"
+    },
+    {
+      "en": "Quartz Pillar",
+      "jp": "クォーツの柱"
+    },
+    {
+      "en": "Quartz Slab",
+      "jp": "クォーツのハーフブロック"
+    },
+    {
+      "en": "Quartz Stairs",
+      "jp": "クォーツの階段"
+    },
+    {
+      "en": "Rail",
+      "jp": "レール"
+    },
+    {
+      "en": "Red Banner",
+      "jp": "赤色の旗"
+    },
+    {
+      "en": "Red Bed",
+      "jp": "赤色のベッド"
+    },
+    {
+      "en": "Red Candle",
+      "jp": "赤色のろうそく"
+    },
+    {
+      "en": "Red Carpet",
+      "jp": "赤色のカーペット"
+    },
+    {
+      "en": "Red Concrete",
+      "jp": "赤色のコンクリート"
+    },
+    {
+      "en": "Red Concrete Powder",
+      "jp": "赤色のコンクリートパウダー"
+    },
+    {
+      "en": "Red Glazed Terracotta",
+      "jp": "赤色の彩釉テラコッタ"
+    },
+    {
+      "en": "Red Mushroom",
+      "jp": "赤色のキノコ"
+    },
+    {
+      "en": "Red Mushroom Block",
+      "jp": "赤色のキノコブロック"
+    },
+    {
+      "en": "Red Nether Brick Slab",
+      "jp": "赤いネザーレンガのハーフブロック"
+    },
+    {
+      "en": "Red Nether Brick Stairs",
+      "jp": "赤いネザーレンガの階段"
+    },
+    {
+      "en": "Red Nether Brick Wall",
+      "jp": "赤いネザーレンガの塀"
+    },
+    {
+      "en": "Red Nether Bricks",
+      "jp": "赤いネザーレンガ"
+    },
+    {
+      "en": "Red Sand",
+      "jp": "赤い砂"
+    },
+    {
+      "en": "Red Sandstone",
+      "jp": "赤い砂岩"
+    },
+    {
+      "en": "Red Sandstone Slab",
+      "jp": "赤い砂岩のハーフブロック"
+    },
+    {
+      "en": "Red Sandstone Stairs",
+      "jp": "赤い砂岩の階段"
+    },
+    {
+      "en": "Red Sandstone Wall",
+      "jp": "赤い砂岩の塀"
+    },
+    {
+      "en": "Red Shulker Box",
+      "jp": "赤色のシュルカーボックス"
+    },
+    {
+      "en": "Red Stained Glass",
+      "jp": "赤色の色付きガラス"
+    },
+    {
+      "en": "Red Stained Glass Pane",
+      "jp": "赤色の色付きガラス板"
+    },
+    {
+      "en": "Red Terracotta",
+      "jp": "赤色のテラコッタ"
+    },
+    {
+      "en": "Red Tulip",
+      "jp": "赤色のチューリップ"
+    },
+    {
+      "en": "Red Wool",
+      "jp": "赤色の羊毛"
+    },
+    {
+      "en": "Redstone Comparator",
+      "jp": "レッドストーンコンパレーター"
+    },
+    {
+      "en": "Redstone Lamp",
+      "jp": "レッドストーンランプ"
+    },
+    {
+      "en": "Redstone Ore",
+      "jp": "レッドストーン鉱石"
+    },
+    {
+      "en": "Redstone Repeater",
+      "jp": "レッドストーンリピーター"
+    },
+    {
+      "en": "Redstone Torch",
+      "jp": "レッドストーントーチ"
+    },
+    {
+      "en": "Redstone Wire",
+      "jp": "レッドストーンワイヤー"
+    },
+    {
+      "en": "Reinforced Deepslate",
+      "jp": "強化された深層岩"
+    },
+    {
+      "en": "Repeating Command Block",
+      "jp": "リピートコマンドブロック"
+    },
+    {
+      "en": "Resin Brick Slab",
+      "jp": "樹脂レンガ"
+    },
+    {
+      "en": "Resin Brick Stairs",
+      "jp": "樹脂レンガのハーフブロック"
+    },
+    {
+      "en": "Resin Brick Wall",
+      "jp": "樹脂レンガの階段"
+    },
+    {
+      "en": "Resin Bricks",
+      "jp": "樹脂レンガの塀"
+    },
+    {
+      "en": "Resin Clump",
+      "jp": "樹脂の塊"
+    },
+    {
+      "en": "Respawn Anchor",
+      "jp": "リスポーンアンカー"
+    },
+    {
+      "en": "Rooted Dirt",
+      "jp": "根付いた土"
+    },
+    {
+      "en": "Rose Bush",
+      "jp": "バラの低木"
+    },
+    {
+      "en": "Sand",
+      "jp": "砂"
+    },
+    {
+      "en": "Sandstone",
+      "jp": "砂岩"
+    },
+    {
+      "en": "Sandstone Slab",
+      "jp": "砂岩のハーフブロック"
+    },
+    {
+      "en": "Sandstone Stairs",
+      "jp": "砂岩の階段"
+    },
+    {
+      "en": "Sandstone Wall",
+      "jp": "砂岩の塀"
+    },
+    {
+      "en": "Scaffolding",
+      "jp": "足場"
+    },
+    {
+      "en": "Sculk",
+      "jp": "スカルク"
+    },
+    {
+      "en": "Sculk Catalyst",
+      "jp": "スカルクカタリスト"
+    },
+    {
+      "en": "Sculk Sensor",
+      "jp": "スカルクセンサー"
+    },
+    {
+      "en": "Sculk Shrieker",
+      "jp": "スカルクシュリーカー"
+    },
+    {
+      "en": "Sculk Vein",
+      "jp": "スカルクヴェイン"
+    },
+    {
+      "en": "Sea Lantern",
+      "jp": "シーランタン"
+    },
+    {
+      "en": "Sea Pickle",
+      "jp": "シーピクルス"
+    },
+    {
+      "en": "Seagrass",
+      "jp": "海草"
+    },
+    {
+      "en": "Short Dry Grass",
+      "jp": "背の低い草"
+    },
+    {
+      "en": "Short Grass",
+      "jp": "背の低い枯れ草"
+    },
+    {
+      "en": "Shroomlight",
+      "jp": "シュルームライト"
+    },
+    {
+      "en": "Shulker Box",
+      "jp": "シュルカーボックス"
+    },
+    {
+      "en": "Skeleton Skull",
+      "jp": "スケルトンの頭蓋骨"
+    },
+    {
+      "en": "Slime Block",
+      "jp": "スライムブロック"
+    },
+    {
+      "en": "Small Amethyst Bud",
+      "jp": "小さなアメジストの芽"
+    },
+    {
+      "en": "Small Dripleaf",
+      "jp": "小さなドリップリーフ"
+    },
+    {
+      "en": "Smithing Table",
+      "jp": "鍛冶台"
+    },
+    {
+      "en": "Smoker",
+      "jp": "燻製器"
+    },
+    {
+      "en": "Smooth Basalt",
+      "jp": "滑らかな玄武岩"
+    },
+    {
+      "en": "Smooth Quartz Block",
+      "jp": "滑らかなクォーツブロック"
+    },
+    {
+      "en": "Smooth Quartz Slab",
+      "jp": "滑らかなクォーツのハーフブロック"
+    },
+    {
+      "en": "Smooth Quartz Stairs",
+      "jp": "滑らかなクォーツの階段"
+    },
+    {
+      "en": "Smooth Red Sandstone",
+      "jp": "滑らかな赤い砂岩"
+    },
+    {
+      "en": "Smooth Red Sandstone Slab",
+      "jp": "滑らかな赤い砂岩のハーフブロック"
+    },
+    {
+      "en": "Smooth Red Sandstone Stairs",
+      "jp": "滑らかな赤い砂岩の階段"
+    },
+    {
+      "en": "Smooth Sandstone",
+      "jp": "滑らかな砂岩"
+    },
+    {
+      "en": "Smooth Sandstone Slab",
+      "jp": "滑らかな砂岩のハーフブロック"
+    },
+    {
+      "en": "Smooth Sandstone Stairs",
+      "jp": "滑らかな砂岩の階段"
+    },
+    {
+      "en": "Smooth Stone",
+      "jp": "滑らかな石"
+    },
+    {
+      "en": "Smooth Stone Slab",
+      "jp": "滑らかな石のハーフブロック"
+    },
+    {
+      "en": "Sniffer Egg",
+      "jp": "スニッファーの卵"
+    },
+    {
+      "en": "Snow",
+      "jp": "雪"
+    },
+    {
+      "en": "Snow Block",
+      "jp": "雪ブロック"
+    },
+    {
+      "en": "Soul Campfire",
+      "jp": "魂の焚き火"
+    },
+    {
+      "en": "Soul Fire",
+      "jp": "魂の炎"
+    },
+    {
+      "en": "Soul Lantern",
+      "jp": "魂のランタン"
+    },
+    {
+      "en": "Soul Sand",
+      "jp": "ソウルサンド"
+    },
+    {
+      "en": "Soul Soil",
+      "jp": "ソウルソイル"
+    },
+    {
+      "en": "Soul Torch",
+      "jp": "魂の松明"
+    },
+    {
+      "en": "Sponge",
+      "jp": "スポンジ"
+    },
+    {
+      "en": "Spore Blossom",
+      "jp": "胞子の花"
+    },
+    {
+      "en": "Spruce Button",
+      "jp": "トウヒのボタン"
+    },
+    {
+      "en": "Spruce Door",
+      "jp": "トウヒのドア"
+    },
+    {
+      "en": "Spruce Fence",
+      "jp": "トウヒのフェンス"
+    },
+    {
+      "en": "Spruce Fence Gate",
+      "jp": "トウヒのフェンスゲート"
+    },
+    {
+      "en": "Spruce Hanging Sign",
+      "jp": "トウヒの吊り看板"
+    },
+    {
+      "en": "Spruce Leaves",
+      "jp": "トウヒの葉"
+    },
+    {
+      "en": "Spruce Log",
+      "jp": "トウヒの原木"
+    },
+    {
+      "en": "Spruce Planks",
+      "jp": "トウヒの板材"
+    },
+    {
+      "en": "Spruce Pressure Plate",
+      "jp": "トウヒの感圧板"
+    },
+    {
+      "en": "Spruce Sapling",
+      "jp": "トウヒの苗木"
+    },
+    {
+      "en": "Spruce Shelf",
+      "jp": "トウヒの棚"
+    },
+    {
+      "en": "Spruce Sign",
+      "jp": "トウヒの看板"
+    },
+    {
+      "en": "Spruce Slab",
+      "jp": "トウヒのハーフブロック"
+    },
+    {
+      "en": "Spruce Stairs",
+      "jp": "トウヒの階段"
+    },
+    {
+      "en": "Spruce Trapdoor",
+      "jp": "トウヒのトラップドア"
+    },
+    {
+      "en": "Spruce Wood",
+      "jp": "トウヒの木"
+    },
+    {
+      "en": "Sticky Piston",
+      "jp": "粘着ピストン"
+    },
+    {
+      "en": "Stone",
+      "jp": "石"
+    },
+    {
+      "en": "Stone Brick Slab",
+      "jp": "石レンガのハーフブロック"
+    },
+    {
+      "en": "Stone Brick Stairs",
+      "jp": "石レンガの階段"
+    },
+    {
+      "en": "Stone Brick Wall",
+      "jp": "石レンガの塀"
+    },
+    {
+      "en": "Stone Bricks",
+      "jp": "石レンガ"
+    },
+    {
+      "en": "Stone Button",
+      "jp": "石のボタン"
+    },
+    {
+      "en": "Stone Pressure Plate",
+      "jp": "石の感圧板"
+    },
+    {
+      "en": "Stone Slab",
+      "jp": "石のハーフブロック"
+    },
+    {
+      "en": "Stone Stairs",
+      "jp": "石の階段"
+    },
+    {
+      "en": "Stonecutter",
+      "jp": "石切台"
+    },
+    {
+      "en": "Stripped Acacia Log",
+      "jp": "樹皮を剥いだアカシアの原木"
+    },
+    {
+      "en": "Stripped Acacia Wood",
+      "jp": "樹皮を剥いだアカシアの木"
+    },
+    {
+      "en": "Stripped Birch Log",
+      "jp": "樹皮を剥いだシラカバの原木"
+    },
+    {
+      "en": "Stripped Birch Wood",
+      "jp": "樹皮を剥いだシラカバの木"
+    },
+    {
+      "en": "Stripped Cherry Log",
+      "jp": "樹皮を剥いだサクラの原木"
+    },
+    {
+      "en": "Stripped Cherry Wood",
+      "jp": "樹皮を剥いだサクラの木"
+    },
+    {
+      "en": "Stripped Crimson Hyphae",
+      "jp": "表皮を剥いだ真紅の菌糸"
+    },
+    {
+      "en": "Stripped Crimson Stem",
+      "jp": "表皮を剥いだ真紅の幹"
+    },
+    {
+      "en": "Stripped Dark Oak Log",
+      "jp": "樹皮を剥いだダークオークの原木"
+    },
+    {
+      "en": "Stripped Dark Oak Wood",
+      "jp": "樹皮を剥いだダークオークの木"
+    },
+    {
+      "en": "Stripped Jungle Log",
+      "jp": "樹皮を剥いだジャングルの原木"
+    },
+    {
+      "en": "Stripped Jungle Wood",
+      "jp": "樹皮を剥いだジャングルの木"
+    },
+    {
+      "en": "Stripped Mangrove Log",
+      "jp": "樹皮を剥いだマングローブの原木"
+    },
+    {
+      "en": "Stripped Mangrove Wood",
+      "jp": "樹皮を剥いだマングローブの木"
+    },
+    {
+      "en": "Stripped Oak Log",
+      "jp": "樹皮を剥いだオークの原木"
+    },
+    {
+      "en": "Stripped Oak Wood",
+      "jp": "樹皮を剥いだオークの木"
+    },
+    {
+      "en": "Stripped Pale Oak Log",
+      "jp": "樹皮を剥いだペールオークの原木"
+    },
+    {
+      "en": "Stripped Pale Oak Wood",
+      "jp": "樹皮を剥いだペールオークの木"
+    },
+    {
+      "en": "Stripped Spruce Log",
+      "jp": "樹皮を剥いだトウヒの原木"
+    },
+    {
+      "en": "Stripped Spruce Wood",
+      "jp": "樹皮を剥いだトウヒの木"
+    },
+    {
+      "en": "Stripped Warped Hyphae",
+      "jp": "表皮を剥いだ歪んだ菌糸"
+    },
+    {
+      "en": "Stripped Warped Stem",
+      "jp": "表皮を剥いだ歪んだ幹"
+    },
+    {
+      "en": "Structure Block",
+      "jp": "ストラクチャーブロック"
+    },
+    {
+      "en": "Structure Void",
+      "jp": "ストラクチャーヴォイド"
+    },
+    {
+      "en": "Sugar Cane",
+      "jp": "サトウキビ"
+    },
+    {
+      "en": "Sunflower",
+      "jp": "ヒマワリ"
+    },
+    {
+      "en": "Suspicious Gravel",
+      "jp": "怪しげな砂利"
+    },
+    {
+      "en": "Suspicious Sand",
+      "jp": "怪しげな砂"
+    },
+    {
+      "en": "Sweet Berry Bush",
+      "jp": "スイートベリーの低木"
+    },
+    {
+      "en": "Tall Dry Grass",
+      "jp": "背の高い枯れ草"
+    },
+    {
+      "en": "Tall Grass",
+      "jp": "背の高い草"
+    },
+    {
+      "en": "Tall Seagrass",
+      "jp": "背の高い海草"
+    },
+    {
+      "en": "Target",
+      "jp": "的"
+    },
+    {
+      "en": "Terracotta",
+      "jp": "テラコッタ"
+    },
+    {
+      "en": "Test Block",
+      "jp": "テストブロック"
+    },
+    {
+      "en": "Test Instance Block",
+      "jp": "テストインスタンスブロック"
+    },
+    {
+      "en": "Tinted Glass",
+      "jp": "遮光ガラス"
+    },
+    {
+      "en": "TNT",
+      "jp": "TNT"
+    },
+    {
+      "en": "Torch",
+      "jp": "松明"
+    },
+    {
+      "en": "Torchflower",
+      "jp": "トーチフラワー"
+    },
+    {
+      "en": "Torchflower Crop",
+      "jp": "トーチフラワー"
+    },
+    {
+      "en": "Trapped Chest",
+      "jp": "トラップチェスト"
+    },
+    {
+      "en": "Trial Spawner",
+      "jp": "試練のスポナー"
+    },
+    {
+      "en": "Tripwire",
+      "jp": "トリップワイヤー"
+    },
+    {
+      "en": "Tripwire Hook",
+      "jp": "トリップワイヤーフック"
+    },
+    {
+      "en": "Tube Coral",
+      "jp": "クダサンゴ"
+    },
+    {
+      "en": "Tube Coral Block",
+      "jp": "クダサンゴブロック"
+    },
+    {
+      "en": "Tube Coral Fan",
+      "jp": "クダウチワサンゴ"
+    },
+    {
+      "en": "Tuff",
+      "jp": "凝灰岩"
+    },
+    {
+      "en": "Tuff Brick Slab",
+      "jp": "凝灰岩レンガのハーフブロック"
+    },
+    {
+      "en": "Tuff Brick Stairs",
+      "jp": "凝灰岩レンガの階段"
+    },
+    {
+      "en": "Tuff Brick Wall",
+      "jp": "凝灰岩レンガの塀"
+    },
+    {
+      "en": "Tuff Bricks",
+      "jp": "凝灰岩レンガ"
+    },
+    {
+      "en": "Tuff Slab",
+      "jp": "凝灰岩のハーフブロック"
+    },
+    {
+      "en": "Tuff Stairs",
+      "jp": "凝灰岩の階段"
+    },
+    {
+      "en": "Tuff Wall",
+      "jp": "凝灰岩の塀"
+    },
+    {
+      "en": "Turtle Egg",
+      "jp": "カメの卵"
+    },
+    {
+      "en": "Twisting Vines",
+      "jp": "ねじれツタ"
+    },
+    {
+      "en": "Vault",
+      "jp": "宝物庫"
+    },
+    {
+      "en": "Verdant Froglight",
+      "jp": "新緑色のフロッグライト"
+    },
+    {
+      "en": "Vines",
+      "jp": "ツタ"
+    },
+    {
+      "en": "Warped Button",
+      "jp": "歪んだボタン"
+    },
+    {
+      "en": "Warped Door",
+      "jp": "歪んだドア"
+    },
+    {
+      "en": "Warped Fence",
+      "jp": "歪んだフェンス"
+    },
+    {
+      "en": "Warped Fence Gate",
+      "jp": "歪んだフェンスゲート"
+    },
+    {
+      "en": "Warped Fungus",
+      "jp": "歪んだキノコ"
+    },
+    {
+      "en": "Warped Hanging Sign",
+      "jp": "歪んだ吊り看板"
+    },
+    {
+      "en": "Warped Hyphae",
+      "jp": "歪んだ菌糸"
+    },
+    {
+      "en": "Warped Nylium",
+      "jp": "歪んだナイリウム"
+    },
+    {
+      "en": "Warped Planks",
+      "jp": "歪んだ板材"
+    },
+    {
+      "en": "Warped Pressure Plate",
+      "jp": "歪んだ感圧板"
+    },
+    {
+      "en": "Warped Roots",
+      "jp": "歪んだ根"
+    },
+    {
+      "en": "Warped Shelf",
+      "jp": "歪んだ棚"
+    },
+    {
+      "en": "Warped Sign",
+      "jp": "歪んだ看板"
+    },
+    {
+      "en": "Warped Slab",
+      "jp": "歪んだハーフブロック"
+    },
+    {
+      "en": "Warped Stairs",
+      "jp": "歪んだ階段"
+    },
+    {
+      "en": "Warped Stem",
+      "jp": "歪んだ幹"
+    },
+    {
+      "en": "Warped Trapdoor",
+      "jp": "歪んだトラップドア"
+    },
+    {
+      "en": "Warped Wart Block",
+      "jp": "歪んだウォートブロック"
+    },
+    {
+      "en": "Water",
+      "jp": "水"
+    },
+    {
+      "en": "Waxed Block of Copper",
+      "jp": "錆止めされた銅ブロック"
+    },
+    {
+      "en": "Waxed Chiseled Copper",
+      "jp": "錆止めされた模様入りの銅"
+    },
+    {
+      "en": "Waxed Copper Bars",
+      "jp": "錆止めされた銅格子"
+    },
+    {
+      "en": "Waxed Copper Bulb",
+      "jp": "錆止めされた銅の電球"
+    },
+    {
+      "en": "Waxed Copper Chain",
+      "jp": "錆止めされた銅の鎖"
+    },
+    {
+      "en": "Waxed Copper Chest",
+      "jp": "錆止めされた銅のチェスト"
+    },
+    {
+      "en": "Waxed Copper Door",
+      "jp": "錆止めされた銅のドア"
+    },
+    {
+      "en": "Waxed Copper Golem Statue",
+      "jp": "錆止めされたカッパーゴーレムの像"
+    },
+    {
+      "en": "Waxed Copper Grate",
+      "jp": "錆止めされた銅の金網"
+    },
+    {
+      "en": "Waxed Copper Lantern",
+      "jp": "錆止めされた銅のランタン"
+    },
+    {
+      "en": "Waxed Copper Trapdoor",
+      "jp": "錆止めされた銅のトラップドア"
+    },
+    {
+      "en": "Waxed Cut Copper",
+      "jp": "錆止めされた切り込み入りの銅"
+    },
+    {
+      "en": "Waxed Cut Copper Slab",
+      "jp": "錆止めされた切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Waxed Cut Copper Stairs",
+      "jp": "錆止めされた切り込み入りの銅の階段"
+    },
+    {
+      "en": "Waxed Exposed Chiseled Copper",
+      "jp": "錆止めされた風化した模様入りの銅"
+    },
+    {
+      "en": "Waxed Exposed Copper",
+      "jp": "錆止めされた風化した銅"
+    },
+    {
+      "en": "Waxed Exposed Copper Bars",
+      "jp": "錆止めされた風化した銅格子"
+    },
+    {
+      "en": "Waxed Exposed Copper Bulb",
+      "jp": "錆止めされた風化した銅の電球"
+    },
+    {
+      "en": "Waxed Exposed Copper Chain",
+      "jp": "錆止めされた風化した銅の鎖"
+    },
+    {
+      "en": "Waxed Exposed Copper Chest",
+      "jp": "錆止めされた風化した銅のチェスト"
+    },
+    {
+      "en": "Waxed Exposed Copper Door",
+      "jp": "錆止めされた風化した銅のドア"
+    },
+    {
+      "en": "Waxed Exposed Copper Golem Statue",
+      "jp": "錆止めされた風化したカッパーゴーレムの像"
+    },
+    {
+      "en": "Waxed Exposed Copper Grate",
+      "jp": "錆止めされた風化した銅の金網"
+    },
+    {
+      "en": "Waxed Exposed Copper Lantern",
+      "jp": "錆止めされた風化した銅のランタン"
+    },
+    {
+      "en": "Waxed Exposed Copper Trapdoor",
+      "jp": "錆止めされた風化した銅のトラップドア"
+    },
+    {
+      "en": "Waxed Exposed Cut Copper",
+      "jp": "錆止めされた風化した切り込み入りの銅"
+    },
+    {
+      "en": "Waxed Exposed Cut Copper Slab",
+      "jp": "錆止めされた風化した切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Waxed Exposed Cut Copper Stairs",
+      "jp": "錆止めされた風化した切り込み入りの銅の階段"
+    },
+    {
+      "en": "Waxed Exposed Lightning Rod",
+      "jp": "錆止めされた風化した避雷針"
+    },
+    {
+      "en": "Waxed Lightning Rod",
+      "jp": "錆止めされた避雷針"
+    },
+    {
+      "en": "Waxed Oxidized Chiseled Copper",
+      "jp": "錆止めされた酸化した模様入りの銅"
+    },
+    {
+      "en": "Waxed Oxidized Copper",
+      "jp": "錆止めされた酸化した銅"
+    },
+    {
+      "en": "Waxed Oxidized Copper Bars",
+      "jp": "錆止めされた酸化した銅格子"
+    },
+    {
+      "en": "Waxed Oxidized Copper Bulb",
+      "jp": "錆止めされた酸化した銅の電球"
+    },
+    {
+      "en": "Waxed Oxidized Copper Chain",
+      "jp": "錆止めされた酸化した銅の鎖"
+    },
+    {
+      "en": "Waxed Oxidized Copper Chest",
+      "jp": "錆止めされた酸化した銅のチェスト"
+    },
+    {
+      "en": "Waxed Oxidized Copper Door",
+      "jp": "錆止めされた酸化した銅のドア"
+    },
+    {
+      "en": "Waxed Oxidized Copper Golem Statue",
+      "jp": "錆止めされた酸化したカッパーゴーレムの像"
+    },
+    {
+      "en": "Waxed Oxidized Copper Grate",
+      "jp": "錆止めされた酸化した銅の金網"
+    },
+    {
+      "en": "Waxed Oxidized Copper Lantern",
+      "jp": "錆止めされた酸化した銅のランタン"
+    },
+    {
+      "en": "Waxed Oxidized Copper Trapdoor",
+      "jp": "錆止めされた酸化した銅のトラップドア"
+    },
+    {
+      "en": "Waxed Oxidized Cut Copper",
+      "jp": "錆止めされた酸化した切り込み入りの銅"
+    },
+    {
+      "en": "Waxed Oxidized Cut Copper Slab",
+      "jp": "錆止めされた酸化した切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Waxed Oxidized Cut Copper Stairs",
+      "jp": "錆止めされた酸化した切り込み入りの銅の階段"
+    },
+    {
+      "en": "Waxed Oxidized Lightning Rod",
+      "jp": "錆止めされた酸化した避雷針"
+    },
+    {
+      "en": "Waxed Weathered Chiseled Copper",
+      "jp": "錆止めされた錆びた模様入りの銅"
+    },
+    {
+      "en": "Waxed Weathered Copper",
+      "jp": "錆止めされた錆びた銅"
+    },
+    {
+      "en": "Waxed Weathered Copper Bars",
+      "jp": "錆止めされた錆びた銅格子"
+    },
+    {
+      "en": "Waxed Weathered Copper Bulb",
+      "jp": "錆止めされた錆びた銅の電球"
+    },
+    {
+      "en": "Waxed Weathered Copper Chain",
+      "jp": "錆止めされた錆びた銅の鎖"
+    },
+    {
+      "en": "Waxed Weathered Copper Chest",
+      "jp": "錆止めされた錆びた銅のチェスト"
+    },
+    {
+      "en": "Waxed Weathered Copper Door",
+      "jp": "錆止めされた錆びた銅のドア"
+    },
+    {
+      "en": "Waxed Weathered Copper Golem Statue",
+      "jp": "錆止めされた錆びたカッパーゴーレムの像"
+    },
+    {
+      "en": "Waxed Weathered Copper Grate",
+      "jp": "錆止めされた錆びた銅の金網"
+    },
+    {
+      "en": "Waxed Weathered Copper Lantern",
+      "jp": "錆止めされた錆びた銅のランタン"
+    },
+    {
+      "en": "Waxed Weathered Copper Trapdoor",
+      "jp": "錆止めされた錆びた銅のトラップドア"
+    },
+    {
+      "en": "Waxed Weathered Cut Copper",
+      "jp": "錆止めされた錆びた切り込み入りの銅"
+    },
+    {
+      "en": "Waxed Weathered Cut Copper Slab",
+      "jp": "錆止めされた錆びた切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Waxed Weathered Cut Copper Stairs",
+      "jp": "錆止めされた錆びた切り込み入りの銅の階段"
+    },
+    {
+      "en": "Waxed Weathered Lightning Rod",
+      "jp": "錆止めされた錆びた避雷針"
+    },
+    {
+      "en": "Weathered Chiseled Copper",
+      "jp": "錆びた模様入りの銅"
+    },
+    {
+      "en": "Weathered Copper",
+      "jp": "錆びた銅"
+    },
+    {
+      "en": "Weathered Copper Bars",
+      "jp": "錆びた銅格子"
+    },
+    {
+      "en": "Weathered Copper Bulb",
+      "jp": "錆びた銅の電球"
+    },
+    {
+      "en": "Weathered Copper Chain",
+      "jp": "錆びた銅の鎖"
+    },
+    {
+      "en": "Weathered Copper Chest",
+      "jp": "錆びた銅のチェスト"
+    },
+    {
+      "en": "Weathered Copper Door",
+      "jp": "錆びた銅のドア"
+    },
+    {
+      "en": "Weathered Copper Golem Statue",
+      "jp": "錆びたカッパーゴーレムの像"
+    },
+    {
+      "en": "Weathered Copper Grate",
+      "jp": "錆びた銅の金網"
+    },
+    {
+      "en": "Weathered Copper Lantern",
+      "jp": "錆びた銅のランタン"
+    },
+    {
+      "en": "Weathered Copper Trapdoor",
+      "jp": "錆びた銅のトラップドア"
+    },
+    {
+      "en": "Weathered Cut Copper",
+      "jp": "錆びた切り込み入りの銅"
+    },
+    {
+      "en": "Weathered Cut Copper Slab",
+      "jp": "錆びた切り込み入りの銅のハーフブロック"
+    },
+    {
+      "en": "Weathered Cut Copper Stairs",
+      "jp": "錆びた切り込み入りの銅の階段"
+    },
+    {
+      "en": "Weathered Lightning Rod",
+      "jp": "錆びた避雷針"
+    },
+    {
+      "en": "Weeping Vines",
+      "jp": "しだれツタ"
+    },
+    {
+      "en": "Wet Sponge",
+      "jp": "濡れたスポンジ"
+    },
+    {
+      "en": "Wheat Crops",
+      "jp": "小麦"
+    },
+    {
+      "en": "White Banner",
+      "jp": "白色の旗"
+    },
+    {
+      "en": "White Bed",
+      "jp": "白色のベッド"
+    },
+    {
+      "en": "White Candle",
+      "jp": "白色のろうそく"
+    },
+    {
+      "en": "White Carpet",
+      "jp": "白色のカーペット"
+    },
+    {
+      "en": "White Concrete",
+      "jp": "白色のコンクリート"
+    },
+    {
+      "en": "White Concrete Powder",
+      "jp": "白色のコンクリートパウダー"
+    },
+    {
+      "en": "White Glazed Terracotta",
+      "jp": "白色の彩釉テラコッタ"
+    },
+    {
+      "en": "White Shulker Box",
+      "jp": "白色のシュルカーボックス"
+    },
+    {
+      "en": "White Stained Glass",
+      "jp": "白色の色付きガラス"
+    },
+    {
+      "en": "White Stained Glass Pane",
+      "jp": "白色の色付きガラス板"
+    },
+    {
+      "en": "White Terracotta",
+      "jp": "白色のテラコッタ"
+    },
+    {
+      "en": "White Tulip",
+      "jp": "白色のチューリップ"
+    },
+    {
+      "en": "White Wool",
+      "jp": "白色の羊毛"
+    },
+    {
+      "en": "Wildflowers",
+      "jp": "野花"
+    },
+    {
+      "en": "Wither Rose",
+      "jp": "ウィザーローズ"
+    },
+    {
+      "en": "Wither Skeleton Skull",
+      "jp": "ウィザースケルトンの頭蓋骨"
+    },
+    {
+      "en": "Yellow Banner",
+      "jp": "黄色の旗"
+    },
+    {
+      "en": "Yellow Bed",
+      "jp": "黄色のベッド"
+    },
+    {
+      "en": "Yellow Candle",
+      "jp": "黄色のろうそく"
+    },
+    {
+      "en": "Yellow Carpet",
+      "jp": "黄色のカーペット"
+    },
+    {
+      "en": "Yellow Concrete",
+      "jp": "黄色のコンクリート"
+    },
+    {
+      "en": "Yellow Concrete Powder",
+      "jp": "黄色のコンクリートパウダー"
+    },
+    {
+      "en": "Yellow Glazed Terracotta",
+      "jp": "黄色の彩釉テラコッタ"
+    },
+    {
+      "en": "Yellow Shulker Box",
+      "jp": "黄色のシュルカーボックス"
+    },
+    {
+      "en": "Yellow Stained Glass",
+      "jp": "黄色の色付きガラス"
+    },
+    {
+      "en": "Yellow Stained Glass Pane",
+      "jp": "黄色の色付きガラス板"
+    },
+    {
+      "en": "Yellow Terracotta",
+      "jp": "黄色のテラコッタ"
+    },
+    {
+      "en": "Yellow Wool",
+      "jp": "黄色の羊毛"
+    },
+    {
+      "en": "Zombie Head",
+      "jp": "ゾンビの頭"
+    }
+  ],
+  "effects": [
+    {
+      "en": "Absorption",
+      "jp": "衝撃吸収"
+    },
+    {
+      "en": "Bad Luck",
+      "jp": "不運"
+    },
+    {
+      "en": "Bad Omen",
+      "jp": "不吉な予感"
+    },
+    {
+      "en": "Blindness",
+      "jp": "盲目"
+    },
+    {
+      "en": "Breath of the Nautilus",
+      "jp": "オウムガイの息吹"
+    },
+    {
+      "en": "Conduit Power",
+      "jp": "コンジットパワー"
+    },
+    {
+      "en": "Darkness",
+      "jp": "暗闇"
+    },
+    {
+      "en": "Dolphin's Grace",
+      "jp": "イルカの好意"
+    },
+    {
+      "en": "Fire Resistance",
+      "jp": "火炎耐性"
+    },
+    {
+      "en": "Glowing",
+      "jp": "発光"
+    },
+    {
+      "en": "Haste",
+      "jp": "採掘速度上昇"
+    },
+    {
+      "en": "Health Boost",
+      "jp": "体力増強"
+    },
+    {
+      "en": "Hero of the Village",
+      "jp": "村の英雄"
+    },
+    {
+      "en": "Hunger",
+      "jp": "空腹"
+    },
+    {
+      "en": "Infested",
+      "jp": "虫食い"
+    },
+    {
+      "en": "Instant Damage",
+      "jp": "即時ダメージ"
+    },
+    {
+      "en": "Instant Health",
+      "jp": "即時回復"
+    },
+    {
+      "en": "Invisibility",
+      "jp": "透明化"
+    },
+    {
+      "en": "Jump Boost",
+      "jp": "跳躍力上昇"
+    },
+    {
+      "en": "Levitation",
+      "jp": "浮遊"
+    },
+    {
+      "en": "Luck",
+      "jp": "幸運"
+    },
+    {
+      "en": "Mining Fatigue",
+      "jp": "採掘速度低下"
+    },
+    {
+      "en": "Nausea",
+      "jp": "吐き気"
+    },
+    {
+      "en": "Night Vision",
+      "jp": "暗視"
+    },
+    {
+      "en": "Oozing",
+      "jp": "滲出"
+    },
+    {
+      "en": "Poison",
+      "jp": "毒"
+    },
+    {
+      "en": "Raid Omen",
+      "jp": "襲撃の予感"
+    },
+    {
+      "en": "Regeneration",
+      "jp": "再生能力"
+    },
+    {
+      "en": "Resistance",
+      "jp": "耐性"
+    },
+    {
+      "en": "Saturation",
+      "jp": "満腹度回復"
+    },
+    {
+      "en": "Slow Falling",
+      "jp": "落下速度低下"
+    },
+    {
+      "en": "Slowness",
+      "jp": "移動速度低下"
+    },
+    {
+      "en": "Speed",
+      "jp": "移動速度上昇"
+    },
+    {
+      "en": "Strength",
+      "jp": "攻撃力上昇"
+    },
+    {
+      "en": "Trial Omen",
+      "jp": "試練の予感"
+    },
+    {
+      "en": "Water Breathing",
+      "jp": "水中呼吸"
+    },
+    {
+      "en": "Weakness",
+      "jp": "弱体化"
+    },
+    {
+      "en": "Weaving",
+      "jp": "巣張り"
+    },
+    {
+      "en": "Wind Charged",
+      "jp": "蓄風"
+    },
+    {
+      "en": "Wither",
+      "jp": "衰弱"
+    }
+  ],
+  "enchantments": [
+    {
+      "en": "Aqua Affinity",
+      "jp": "水中採掘"
+    },
+    {
+      "en": "Bane of Arthropods",
+      "jp": "虫特効"
+    },
+    {
+      "en": "Blast Protection",
+      "jp": "爆発耐性"
+    },
+    {
+      "en": "Breach",
+      "jp": "防具貫通"
+    },
+    {
+      "en": "Channeling",
+      "jp": "召雷"
+    },
+    {
+      "en": "Curse of Binding",
+      "jp": "束縛の呪い"
+    },
+    {
+      "en": "Curse of Vanishing",
+      "jp": "消滅の呪い"
+    },
+    {
+      "en": "Density",
+      "jp": "重撃"
+    },
+    {
+      "en": "Depth Strider",
+      "jp": "水中歩行"
+    },
+    {
+      "en": "Efficiency",
+      "jp": "効率強化"
+    },
+    {
+      "en": "Feather Falling",
+      "jp": "落下耐性"
+    },
+    {
+      "en": "Fire Aspect",
+      "jp": "火属性"
+    },
+    {
+      "en": "Fire Protection",
+      "jp": "火炎耐性"
+    },
+    {
+      "en": "Flame",
+      "jp": "フレイム"
+    },
+    {
+      "en": "Fortune",
+      "jp": "幸運"
+    },
+    {
+      "en": "Frost Walker",
+      "jp": "氷渡り"
+    },
+    {
+      "en": "Impaling",
+      "jp": "水生特効"
+    },
+    {
+      "en": "Infinity",
+      "jp": "無限"
+    },
+    {
+      "en": "Knockback",
+      "jp": "ノックバック"
+    },
+    {
+      "en": "Looting",
+      "jp": "ドロップ増加"
+    },
+    {
+      "en": "Loyalty",
+      "jp": "忠誠"
+    },
+    {
+      "en": "Luck of the Sea",
+      "jp": "宝釣り"
+    },
+    {
+      "en": "Lunge",
+      "jp": "突進"
+    },
+    {
+      "en": "Lure",
+      "jp": "入れ食い"
+    },
+    {
+      "en": "Mending",
+      "jp": "修繕"
+    },
+    {
+      "en": "Multishot",
+      "jp": "拡散"
+    },
+    {
+      "en": "Piercing",
+      "jp": "貫通"
+    },
+    {
+      "en": "Power",
+      "jp": "射撃ダメージ増加"
+    },
+    {
+      "en": "Projectile Protection",
+      "jp": "飛び道具耐性"
+    },
+    {
+      "en": "Protection",
+      "jp": "ダメージ軽減"
+    },
+    {
+      "en": "Punch",
+      "jp": "パンチ"
+    },
+    {
+      "en": "Quick Charge",
+      "jp": "高速装填"
+    },
+    {
+      "en": "Respiration",
+      "jp": "水中呼吸"
+    },
+    {
+      "en": "Riptide",
+      "jp": "激流"
+    },
+    {
+      "en": "Sharpness",
+      "jp": "ダメージ増加"
+    },
+    {
+      "en": "Silk Touch",
+      "jp": "シルクタッチ"
+    },
+    {
+      "en": "Smite",
+      "jp": "アンデッド特効"
+    },
+    {
+      "en": "Soul Speed",
+      "jp": "ソウルスピード"
+    },
+    {
+      "en": "Sweeping Edge",
+      "jp": "範囲ダメージ増加"
+    },
+    {
+      "en": "Swift Sneak",
+      "jp": "スニーク速度上昇"
+    },
+    {
+      "en": "Thorns",
+      "jp": "棘の鎧"
+    },
+    {
+      "en": "Unbreaking",
+      "jp": "耐久力"
+    },
+    {
+      "en": "Wind Burst",
+      "jp": "ウィンドバースト"
+    }
+  ],
+  "items": [
+    {
+      "en": "Acacia Boat",
+      "jp": "アカシアのボート"
+    },
+    {
+      "en": "Acacia Boat with Chest",
+      "jp": "チェスト付きのアカシアのボート"
+    },
+    {
+      "en": "Amethyst Shard",
+      "jp": "アメジストの欠片"
+    },
+    {
+      "en": "Angler Pottery Sherd",
+      "jp": "釣り人の壺の欠片"
+    },
+    {
+      "en": "Apple",
+      "jp": "リンゴ"
+    },
+    {
+      "en": "Archer Pottery Sherd",
+      "jp": "射手の壺の欠片"
+    },
+    {
+      "en": "Armadillo Scute",
+      "jp": "アルマジロのウロコ"
+    },
+    {
+      "en": "Armor Stand",
+      "jp": "防具立て"
+    },
+    {
+      "en": "Arms Up Pottery Sherd",
+      "jp": "両腕を上げた人の壺の欠片"
+    },
+    {
+      "en": "Arrow",
+      "jp": "矢"
+    },
+    {
+      "en": "Baked Potato",
+      "jp": "ベイクドポテト"
+    },
+    {
+      "en": "Bamboo Raft",
+      "jp": "竹のイカダ"
+    },
+    {
+      "en": "Bamboo Raft with Chest",
+      "jp": "チェスト付きの竹のイカダ"
+    },
+    {
+      "en": "Beetroot",
+      "jp": "ビートルート"
+    },
+    {
+      "en": "Beetroot Seeds",
+      "jp": "ビートルートの種"
+    },
+    {
+      "en": "Beetroot Soup",
+      "jp": "ビートルートスープ"
+    },
+    {
+      "en": "Birch Boat",
+      "jp": "シラカバのボート"
+    },
+    {
+      "en": "Birch Boat with Chest",
+      "jp": "チェスト付きのシラカバのボート"
+    },
+    {
+      "en": "Black Bundle",
+      "jp": "黒色のバンドル"
+    },
+    {
+      "en": "Black Dye",
+      "jp": "黒色の染料"
+    },
+    {
+      "en": "Black Harness",
+      "jp": "黒色のハーネス"
+    },
+    {
+      "en": "Blade Pottery Sherd",
+      "jp": "剣の壺の欠片"
+    },
+    {
+      "en": "Blaze Powder",
+      "jp": "ブレイズパウダー"
+    },
+    {
+      "en": "Blaze Rod",
+      "jp": "ブレイズロッド"
+    },
+    {
+      "en": "Blue Bundle",
+      "jp": "青色のバンドル"
+    },
+    {
+      "en": "Blue Dye",
+      "jp": "青色の染料"
+    },
+    {
+      "en": "Blue Egg",
+      "jp": "青色の卵"
+    },
+    {
+      "en": "Blue Harness",
+      "jp": "青色のハーネス"
+    },
+    {
+      "en": "Bolt Armor Trim",
+      "jp": "ネジ止め風の装飾"
+    },
+    {
+      "en": "Bone",
+      "jp": "骨"
+    },
+    {
+      "en": "Bone Meal",
+      "jp": "骨粉"
+    },
+    {
+      "en": "Book",
+      "jp": "本"
+    },
+    {
+      "en": "Book and Quill",
+      "jp": "本と羽根ペン"
+    },
+    {
+      "en": "Bordure Indented Banner Pattern",
+      "jp": "山形波の縁取りの旗の模様"
+    },
+    {
+      "en": "Bottle o' Enchanting",
+      "jp": "エンチャントの瓶"
+    },
+    {
+      "en": "Bow",
+      "jp": "弓"
+    },
+    {
+      "en": "Bowl",
+      "jp": "ボウル"
+    },
+    {
+      "en": "Bread",
+      "jp": "パン"
+    },
+    {
+      "en": "Breeze Rod",
+      "jp": "ブリーズロッド"
+    },
+    {
+      "en": "Brewer Pottery Sherd",
+      "jp": "醸造家の壺の欠片"
+    },
+    {
+      "en": "Brick",
+      "jp": "レンガ"
+    },
+    {
+      "en": "Brown Bundle",
+      "jp": "茶色のバンドル"
+    },
+    {
+      "en": "Brown Dye",
+      "jp": "茶色の染料"
+    },
+    {
+      "en": "Brown Egg",
+      "jp": "茶色の卵"
+    },
+    {
+      "en": "Brown Harness",
+      "jp": "茶色のハーネス"
+    },
+    {
+      "en": "Brush",
+      "jp": "ブラシ"
+    },
+    {
+      "en": "Bucket",
+      "jp": "バケツ"
+    },
+    {
+      "en": "Bucket of Axolotl",
+      "jp": "ウーパールーパー入りバケツ"
+    },
+    {
+      "en": "Bucket of Cod",
+      "jp": "タラ入りバケツ"
+    },
+    {
+      "en": "Bucket of Pufferfish",
+      "jp": "フグ入りバケツ"
+    },
+    {
+      "en": "Bucket of Salmon",
+      "jp": "サケ入りバケツ"
+    },
+    {
+      "en": "Bucket of Tadpole",
+      "jp": "オタマジャクシ入りバケツ"
+    },
+    {
+      "en": "Bucket of Tropical Fish",
+      "jp": "熱帯魚入りバケツ"
+    },
+    {
+      "en": "Bundle",
+      "jp": "バンドル"
+    },
+    {
+      "en": "Burn Pottery Sherd",
+      "jp": "炎の壺の欠片"
+    },
+    {
+      "en": "Carrot",
+      "jp": "ニンジン"
+    },
+    {
+      "en": "Carrot on a Stick",
+      "jp": "ニンジン付きの棒"
+    },
+    {
+      "en": "Chainmail Boots",
+      "jp": "チェーンのブーツ"
+    },
+    {
+      "en": "Chainmail Chestplate",
+      "jp": "チェーンのチェストプレート"
+    },
+    {
+      "en": "Chainmail Helmet",
+      "jp": "チェーンのヘルメット"
+    },
+    {
+      "en": "Chainmail Leggings",
+      "jp": "チェーンのレギンス"
+    },
+    {
+      "en": "Charcoal",
+      "jp": "木炭"
+    },
+    {
+      "en": "Cherry Boat",
+      "jp": "サクラのボート"
+    },
+    {
+      "en": "Cherry Boat with Chest",
+      "jp": "チェスト付きのサクラのボート"
+    },
+    {
+      "en": "Chorus Fruit",
+      "jp": "コーラスフルーツ"
+    },
+    {
+      "en": "Clay Ball",
+      "jp": "粘土玉"
+    },
+    {
+      "en": "Clock",
+      "jp": "時計"
+    },
+    {
+      "en": "Coal",
+      "jp": "石炭"
+    },
+    {
+      "en": "Coast Armor Trim",
+      "jp": "海洋風の装飾"
+    },
+    {
+      "en": "Cocoa Beans",
+      "jp": "カカオ豆"
+    },
+    {
+      "en": "Compass",
+      "jp": "コンパス"
+    },
+    {
+      "en": "Cooked Chicken",
+      "jp": "焼き鳥"
+    },
+    {
+      "en": "Cooked Cod",
+      "jp": "焼き鱈"
+    },
+    {
+      "en": "Cooked Mutton",
+      "jp": "焼き羊肉"
+    },
+    {
+      "en": "Cooked Porkchop",
+      "jp": "焼き豚"
+    },
+    {
+      "en": "Cooked Rabbit",
+      "jp": "焼き兎肉"
+    },
+    {
+      "en": "Cooked Salmon",
+      "jp": "焼き鮭"
+    },
+    {
+      "en": "Cookie",
+      "jp": "クッキー"
+    },
+    {
+      "en": "Copper Axe",
+      "jp": "銅の斧"
+    },
+    {
+      "en": "Copper Boots",
+      "jp": "銅のブーツ"
+    },
+    {
+      "en": "Copper Chestplate",
+      "jp": "銅のチェストプレート"
+    },
+    {
+      "en": "Copper Helmet",
+      "jp": "銅のヘルメット"
+    },
+    {
+      "en": "Copper Hoe",
+      "jp": "銅のクワ"
+    },
+    {
+      "en": "Copper Horse Armor",
+      "jp": "銅の馬鎧"
+    },
+    {
+      "en": "Copper Ingot",
+      "jp": "銅インゴット"
+    },
+    {
+      "en": "Copper Leggings",
+      "jp": "銅のレギンス"
+    },
+    {
+      "en": "Copper Nautilus Armor",
+      "jp": "銅のオウムガイの鎧"
+    },
+    {
+      "en": "Copper Nugget",
+      "jp": "銅塊"
+    },
+    {
+      "en": "Copper Pickaxe",
+      "jp": "銅のツルハシ"
+    },
+    {
+      "en": "Copper Shovel",
+      "jp": "銅のシャベル"
+    },
+    {
+      "en": "Copper Spear",
+      "jp": "銅の槍"
+    },
+    {
+      "en": "Copper Sword",
+      "jp": "銅の剣"
+    },
+    {
+      "en": "Creeper Charge Banner Pattern",
+      "jp": "クリーパーの旗の模様"
+    },
+    {
+      "en": "Crossbow",
+      "jp": "クロスボウ"
+    },
+    {
+      "en": "Cyan Bundle",
+      "jp": "青緑色のバンドル"
+    },
+    {
+      "en": "Cyan Dye",
+      "jp": "青緑色の染料"
+    },
+    {
+      "en": "Cyan Harness",
+      "jp": "青緑色のハーネス"
+    },
+    {
+      "en": "Danger Pottery Sherd",
+      "jp": "脅威の壺の欠片"
+    },
+    {
+      "en": "Dark Oak Boat",
+      "jp": "ダークオークのボート"
+    },
+    {
+      "en": "Dark Oak Boat with Chest",
+      "jp": "チェスト付きのダークオークのボート"
+    },
+    {
+      "en": "Debug Stick",
+      "jp": "デバッグ棒‌"
+    },
+    {
+      "en": "Diamond",
+      "jp": "ダイヤモンド"
+    },
+    {
+      "en": "Diamond Axe",
+      "jp": "ダイヤモンドの斧"
+    },
+    {
+      "en": "Diamond Boots",
+      "jp": "ダイヤモンドのブーツ"
+    },
+    {
+      "en": "Diamond Chestplate",
+      "jp": "ダイヤモンドのチェストプレート"
+    },
+    {
+      "en": "Diamond Helmet",
+      "jp": "ダイヤモンドのヘルメット"
+    },
+    {
+      "en": "Diamond Hoe",
+      "jp": "ダイヤモンドのクワ"
+    },
+    {
+      "en": "Diamond Horse Armor",
+      "jp": "ダイヤモンドの馬鎧"
+    },
+    {
+      "en": "Diamond Leggings",
+      "jp": "ダイヤモンドのレギンス"
+    },
+    {
+      "en": "Diamond Nautilus Armor",
+      "jp": "ダイヤモンドのオウムガイの鎧"
+    },
+    {
+      "en": "Diamond Pickaxe",
+      "jp": "ダイヤモンドのツルハシ"
+    },
+    {
+      "en": "Diamond Shovel",
+      "jp": "ダイヤモンドのシャベル"
+    },
+    {
+      "en": "Diamond Spear",
+      "jp": "ダイヤモンドの槍"
+    },
+    {
+      "en": "Diamond Sword",
+      "jp": "ダイヤモンドの剣"
+    },
+    {
+      "en": "Disc Fragment",
+      "jp": "レコードの破片"
+    },
+    {
+      "en": "Dragon's Breath",
+      "jp": "ドラゴンブレス"
+    },
+    {
+      "en": "Dried Kelp",
+      "jp": "乾燥した昆布"
+    },
+    {
+      "en": "Dune Armor Trim",
+      "jp": "砂丘風の装飾"
+    },
+    {
+      "en": "Echo Shard",
+      "jp": "残響の欠片"
+    },
+    {
+      "en": "Egg",
+      "jp": "卵"
+    },
+    {
+      "en": "Elytra",
+      "jp": "エリトラ"
+    },
+    {
+      "en": "Emerald",
+      "jp": "エメラルド"
+    },
+    {
+      "en": "Empty Map",
+      "jp": "白紙の地図"
+    },
+    {
+      "en": "Enchanted Book",
+      "jp": "エンチャントの本"
+    },
+    {
+      "en": "Enchanted Golden Apple",
+      "jp": "エンチャントされた金のリンゴ"
+    },
+    {
+      "en": "End Crystal",
+      "jp": "エンドクリスタル"
+    },
+    {
+      "en": "Ender Pearl",
+      "jp": "エンダーパール"
+    },
+    {
+      "en": "Explorer Pottery Sherd",
+      "jp": "探検家の壺の欠片"
+    },
+    {
+      "en": "Eye Armor Trim",
+      "jp": "エンダーアイ風の装飾"
+    },
+    {
+      "en": "Eye of Ender",
+      "jp": "エンダーアイ"
+    },
+    {
+      "en": "Feather",
+      "jp": "羽根"
+    },
+    {
+      "en": "Fermented Spider Eye",
+      "jp": "発酵したクモの目"
+    },
+    {
+      "en": "Field Masoned Banner Pattern",
+      "jp": "レンガの旗の模様"
+    },
+    {
+      "en": "Fire Charge",
+      "jp": "ファイヤーチャージ"
+    },
+    {
+      "en": "Firework Rocket",
+      "jp": "ロケット花火"
+    },
+    {
+      "en": "Firework Star",
+      "jp": "花火の星"
+    },
+    {
+      "en": "Fishing Rod",
+      "jp": "釣竿"
+    },
+    {
+      "en": "Flint",
+      "jp": "火打石"
+    },
+    {
+      "en": "Flint and Steel",
+      "jp": "火打石と打ち金"
+    },
+    {
+      "en": "Flow Armor Trim",
+      "jp": "旋風の装飾"
+    },
+    {
+      "en": "Flow Banner Pattern",
+      "jp": "渦巻きの旗の模様"
+    },
+    {
+      "en": "Flow Pottery Sherd",
+      "jp": "渦巻きの壺の欠片"
+    },
+    {
+      "en": "Flower Charge Banner Pattern",
+      "jp": "花の旗の模様"
+    },
+    {
+      "en": "Friend Pottery Sherd",
+      "jp": "友の壺の欠片"
+    },
+    {
+      "en": "Ghast Tear",
+      "jp": "ガストの涙"
+    },
+    {
+      "en": "Glass Bottle",
+      "jp": "ヤギの角笛"
+    },
+    {
+      "en": "Glistering Melon Slice",
+      "jp": "きらめくスイカの薄切り"
+    },
+    {
+      "en": "Globe Banner Pattern",
+      "jp": "地球の旗の模様"
+    },
+    {
+      "en": "Glow Berries",
+      "jp": "グロウベリー"
+    },
+    {
+      "en": "Glow Ink Sac",
+      "jp": "ガラス瓶"
+    },
+    {
+      "en": "Glow Item Frame",
+      "jp": "輝く額縁"
+    },
+    {
+      "en": "Glowstone Dust",
+      "jp": "グロウストーンダスト"
+    },
+    {
+      "en": "Goat Horn",
+      "jp": "輝くイカスミ"
+    },
+    {
+      "en": "Gold Ingot",
+      "jp": "金インゴット"
+    },
+    {
+      "en": "Gold Nugget",
+      "jp": "金塊"
+    },
+    {
+      "en": "Golden Apple",
+      "jp": "金のリンゴ"
+    },
+    {
+      "en": "Golden Axe",
+      "jp": "金の斧"
+    },
+    {
+      "en": "Golden Boots",
+      "jp": "金のブーツ"
+    },
+    {
+      "en": "Golden Carrot",
+      "jp": "金のニンジン"
+    },
+    {
+      "en": "Golden Chestplate",
+      "jp": "金のチェストプレート"
+    },
+    {
+      "en": "Golden Helmet",
+      "jp": "金のヘルメット"
+    },
+    {
+      "en": "Golden Hoe",
+      "jp": "金のクワ"
+    },
+    {
+      "en": "Golden Horse Armor",
+      "jp": "金の馬鎧"
+    },
+    {
+      "en": "Golden Leggings",
+      "jp": "金のレギンス"
+    },
+    {
+      "en": "Golden Nautilus Armor",
+      "jp": "金のオウムガイの鎧"
+    },
+    {
+      "en": "Golden Pickaxe",
+      "jp": "金のツルハシ"
+    },
+    {
+      "en": "Golden Shovel",
+      "jp": "金のシャベル"
+    },
+    {
+      "en": "Golden Spear",
+      "jp": "金の槍"
+    },
+    {
+      "en": "Golden Sword",
+      "jp": "金の剣"
+    },
+    {
+      "en": "Gray Bundle",
+      "jp": "灰色のバンドル"
+    },
+    {
+      "en": "Gray Dye",
+      "jp": "灰色の染料"
+    },
+    {
+      "en": "Gray Harness",
+      "jp": "灰色のハーネス"
+    },
+    {
+      "en": "Green Bundle",
+      "jp": "緑色のバンドル"
+    },
+    {
+      "en": "Green Dye",
+      "jp": "緑色の染料"
+    },
+    {
+      "en": "Green Harness",
+      "jp": "緑色のハーネス"
+    },
+    {
+      "en": "Gunpowder",
+      "jp": "火薬"
+    },
+    {
+      "en": "Guster Banner Pattern",
+      "jp": "風巻く者の旗の模様"
+    },
+    {
+      "en": "Guster Pottery Sherd",
+      "jp": "風巻く者の壺の欠片"
+    },
+    {
+      "en": "Heart of the Sea",
+      "jp": "海洋の心"
+    },
+    {
+      "en": "Heart Pottery Sherd",
+      "jp": "心の壺の欠片"
+    },
+    {
+      "en": "Heartbreak Pottery Sherd",
+      "jp": "傷心の壺の欠片"
+    },
+    {
+      "en": "Honey Bottle",
+      "jp": "ハチミツ入りの瓶"
+    },
+    {
+      "en": "Honeycomb",
+      "jp": "ハニカム"
+    },
+    {
+      "en": "Host Armor Trim",
+      "jp": "主人風の装飾"
+    },
+    {
+      "en": "Howl Pottery Sherd",
+      "jp": "遠吠えの壺の欠片"
+    },
+    {
+      "en": "Ink Sac",
+      "jp": "イカスミ"
+    },
+    {
+      "en": "Iron Axe",
+      "jp": "鉄の斧"
+    },
+    {
+      "en": "Iron Boots",
+      "jp": "鉄のブーツ"
+    },
+    {
+      "en": "Iron Chestplate",
+      "jp": "鉄のチェストプレート"
+    },
+    {
+      "en": "Iron Helmet",
+      "jp": "鉄のヘルメット"
+    },
+    {
+      "en": "Iron Hoe",
+      "jp": "鉄のクワ"
+    },
+    {
+      "en": "Iron Horse Armor",
+      "jp": "鉄の馬鎧"
+    },
+    {
+      "en": "Iron Ingot",
+      "jp": "鉄インゴット"
+    },
+    {
+      "en": "Iron Leggings",
+      "jp": "鉄のレギンス"
+    },
+    {
+      "en": "Iron Nautilus Armor",
+      "jp": "鉄のオウムガイの鎧"
+    },
+    {
+      "en": "Iron Nugget",
+      "jp": "鉄塊"
+    },
+    {
+      "en": "Iron Pickaxe",
+      "jp": "鉄のツルハシ"
+    },
+    {
+      "en": "Iron Shovel",
+      "jp": "鉄のシャベル"
+    },
+    {
+      "en": "Iron Spear",
+      "jp": "鉄の槍"
+    },
+    {
+      "en": "Iron Sword",
+      "jp": "鉄の剣"
+    },
+    {
+      "en": "Item Frame",
+      "jp": "額縁"
+    },
+    {
+      "en": "Jungle Boat",
+      "jp": "ジャングルのボート"
+    },
+    {
+      "en": "Jungle Boat with Chest",
+      "jp": "チェスト付きのジャングルのボート"
+    },
+    {
+      "en": "Kelp",
+      "jp": "コンブ"
+    },
+    {
+      "en": "Knowledge Book",
+      "jp": "知恵の本‌"
+    },
+    {
+      "en": "Lapis Lazuli",
+      "jp": "ラピスラズリ"
+    },
+    {
+      "en": "Lava Bucket",
+      "jp": "溶岩入りバケツ"
+    },
+    {
+      "en": "Lead",
+      "jp": "リード"
+    },
+    {
+      "en": "Leather",
+      "jp": "革"
+    },
+    {
+      "en": "Leather Boots",
+      "jp": "革のブーツ"
+    },
+    {
+      "en": "Leather Cap",
+      "jp": "革の帽子"
+    },
+    {
+      "en": "Leather Horse Armor",
+      "jp": "革の馬鎧"
+    },
+    {
+      "en": "Leather Pants",
+      "jp": "革のズボン"
+    },
+    {
+      "en": "Leather Tunic",
+      "jp": "革の上着"
+    },
+    {
+      "en": "Light Blue Bundle",
+      "jp": "空色のバンドル"
+    },
+    {
+      "en": "Light Blue Dye",
+      "jp": "空色の染料"
+    },
+    {
+      "en": "Light Blue Harness",
+      "jp": "空色のハーネス"
+    },
+    {
+      "en": "Light Gray Bundle",
+      "jp": "薄灰色のバンドル"
+    },
+    {
+      "en": "Light Gray Dye",
+      "jp": "薄灰色の染料"
+    },
+    {
+      "en": "Light Gray Harness",
+      "jp": "薄灰色のハーネス"
+    },
+    {
+      "en": "Lime Bundle",
+      "jp": "黄緑色のバンドル"
+    },
+    {
+      "en": "Lime Dye",
+      "jp": "黄緑色の染料"
+    },
+    {
+      "en": "Lime Harness",
+      "jp": "黄緑色のハーネス"
+    },
+    {
+      "en": "Lingering Potion",
+      "jp": "残留ポーション"
+    },
+    {
+      "en": "Lodestone Compass",
+      "jp": "ロードストーンコンパス"
+    },
+    {
+      "en": "Mace",
+      "jp": "メイス"
+    },
+    {
+      "en": "Magenta Bundle",
+      "jp": "赤紫色のバンドル"
+    },
+    {
+      "en": "Magenta Dye",
+      "jp": "赤紫色の染料"
+    },
+    {
+      "en": "Magenta Harness",
+      "jp": "赤紫色のハーネス"
+    },
+    {
+      "en": "Magma Cream",
+      "jp": "マグマクリーム"
+    },
+    {
+      "en": "Mangrove Boat",
+      "jp": "マングローブのボート"
+    },
+    {
+      "en": "Mangrove Boat with Chest",
+      "jp": "チェスト付きのマングローブのボート"
+    },
+    {
+      "en": "Map or Explorer Map",
+      "jp": "地図と探検家の地図"
+    },
+    {
+      "en": "Melon Seeds",
+      "jp": "スイカの種"
+    },
+    {
+      "en": "Melon Slice",
+      "jp": "スイカの薄切り"
+    },
+    {
+      "en": "Milk Bucket",
+      "jp": "ミルク入りバケツ"
+    },
+    {
+      "en": "Minecart",
+      "jp": "トロッコ"
+    },
+    {
+      "en": "Minecart with Chest",
+      "jp": "チェスト付きのトロッコ"
+    },
+    {
+      "en": "Minecart with Command Block",
+      "jp": "コマンドブロック付きのトロッコ"
+    },
+    {
+      "en": "Minecart with Furnace",
+      "jp": "かまど付きのトロッコ"
+    },
+    {
+      "en": "Minecart with Hopper",
+      "jp": "ホッパー付きのトロッコ"
+    },
+    {
+      "en": "Minecart with TNT",
+      "jp": "TNT付きのトロッコ"
+    },
+    {
+      "en": "Miner Pottery Sherd",
+      "jp": "鉱夫の壺の欠片"
+    },
+    {
+      "en": "Mourner Pottery Sherd",
+      "jp": "哀悼者の壺の欠片"
+    },
+    {
+      "en": "Mushroom Stew",
+      "jp": "キノコシチュー"
+    },
+    {
+      "en": "Music Disc (11)",
+      "jp": "レコード（11）"
+    },
+    {
+      "en": "Music Disc (13)",
+      "jp": "レコード（13）"
+    },
+    {
+      "en": "Music Disc (5)",
+      "jp": "レコード（5）"
+    },
+    {
+      "en": "Music Disc (blocks)",
+      "jp": "レコード（blocks）"
+    },
+    {
+      "en": "Music Disc (cat)",
+      "jp": "レコード（cat）"
+    },
+    {
+      "en": "Music Disc (chirp)",
+      "jp": "レコード（chirp）"
+    },
+    {
+      "en": "Music Disc (Creator (Music Box))",
+      "jp": "レコード（Creator（オルゴール））"
+    },
+    {
+      "en": "Music Disc (Creator)",
+      "jp": "レコード（Creator）"
+    },
+    {
+      "en": "Music Disc (far)",
+      "jp": "レコード（far）"
+    },
+    {
+      "en": "Music Disc (Lava Chicken)",
+      "jp": "レコード（Lava Chicken）"
+    },
+    {
+      "en": "Music Disc (mall)",
+      "jp": "レコード（mall）"
+    },
+    {
+      "en": "Music Disc (mellohi)",
+      "jp": "レコード（mellohi）"
+    },
+    {
+      "en": "Music Disc (otherside)",
+      "jp": "レコード（otherside）"
+    },
+    {
+      "en": "Music Disc (Pigstep)",
+      "jp": "レコード（Pigstep）"
+    },
+    {
+      "en": "Music Disc (Precipice)",
+      "jp": "レコード（Precipice）"
+    },
+    {
+      "en": "Music Disc (Relic)",
+      "jp": "レコード（Relic）"
+    },
+    {
+      "en": "Music Disc (stal)",
+      "jp": "レコード（stal）"
+    },
+    {
+      "en": "Music Disc (strad)",
+      "jp": "レコード（strad）"
+    },
+    {
+      "en": "Music Disc (Tears)",
+      "jp": "レコード (Tears)"
+    },
+    {
+      "en": "Music Disc (wait)",
+      "jp": "レコード（wait）"
+    },
+    {
+      "en": "Music Disc (ward)",
+      "jp": "レコード（ward）"
+    },
+    {
+      "en": "Name Tag",
+      "jp": "名札"
+    },
+    {
+      "en": "Nautilus Shell",
+      "jp": "オウムガイの殻"
+    },
+    {
+      "en": "Nether Brick",
+      "jp": "ネザーレンガ"
+    },
+    {
+      "en": "Nether Quartz",
+      "jp": "ネザークォーツ"
+    },
+    {
+      "en": "Nether Star",
+      "jp": "ネザースター"
+    },
+    {
+      "en": "Nether Wart",
+      "jp": "ネザーウォート"
+    },
+    {
+      "en": "Netherite Axe",
+      "jp": "ネザライトの斧"
+    },
+    {
+      "en": "Netherite Boots",
+      "jp": "ネザライトのブーツ"
+    },
+    {
+      "en": "Netherite Chestplate",
+      "jp": "ネザライトのチェストプレート"
+    },
+    {
+      "en": "Netherite Helmet",
+      "jp": "ネザライトのヘルメット"
+    },
+    {
+      "en": "Netherite Hoe",
+      "jp": "ネザライトのクワ"
+    },
+    {
+      "en": "Netherite Horse Armor",
+      "jp": "ネザライトの馬鎧"
+    },
+    {
+      "en": "Netherite Ingot",
+      "jp": "ネザライトインゴット"
+    },
+    {
+      "en": "Netherite Leggings",
+      "jp": "ネザライトのレギンス"
+    },
+    {
+      "en": "Netherite Nautilus Armor",
+      "jp": "ネザライトのオウムガイの鎧"
+    },
+    {
+      "en": "Netherite Pickaxe",
+      "jp": "ネザライトのツルハシ"
+    },
+    {
+      "en": "Netherite Scrap",
+      "jp": "ネザライトの欠片"
+    },
+    {
+      "en": "Netherite Shovel",
+      "jp": "ネザライトのシャベル"
+    },
+    {
+      "en": "Netherite Spear",
+      "jp": "ネザライトの槍"
+    },
+    {
+      "en": "Netherite Sword",
+      "jp": "ネザライトの剣"
+    },
+    {
+      "en": "Netherite Upgrade",
+      "jp": "ネザライト強化"
+    },
+    {
+      "en": "Oak Boat",
+      "jp": "オークのボート"
+    },
+    {
+      "en": "Oak Boat with Chest",
+      "jp": "チェスト付きのオークのボート"
+    },
+    {
+      "en": "Ominous Bottle",
+      "jp": "不吉な瓶"
+    },
+    {
+      "en": "Ominous Trial Key",
+      "jp": "不吉な試練の鍵"
+    },
+    {
+      "en": "Orange Bundle",
+      "jp": "橙色のバンドル"
+    },
+    {
+      "en": "Orange Dye",
+      "jp": "橙色の染料"
+    },
+    {
+      "en": "Orange Harness",
+      "jp": "橙色のハーネス"
+    },
+    {
+      "en": "Painting",
+      "jp": "絵画"
+    },
+    {
+      "en": "Pale Oak Boat",
+      "jp": "ペールオークのボート"
+    },
+    {
+      "en": "Pale Oak Boat with Chest",
+      "jp": "チェスト付きのペールオークのボート"
+    },
+    {
+      "en": "Paper",
+      "jp": "紙"
+    },
+    {
+      "en": "Phantom Membrane",
+      "jp": "ファントムの皮膜"
+    },
+    {
+      "en": "Pink Bundle",
+      "jp": "桃色のバンドル"
+    },
+    {
+      "en": "Pink Dye",
+      "jp": "桃色の染料"
+    },
+    {
+      "en": "Pink Harness",
+      "jp": "桃色のハーネス"
+    },
+    {
+      "en": "Pitcher Pod",
+      "jp": "ウツボカズラのさや"
+    },
+    {
+      "en": "Plenty Pottery Sherd",
+      "jp": "富の壺の欠片"
+    },
+    {
+      "en": "Poisonous Potato",
+      "jp": "青くなったジャガイモ"
+    },
+    {
+      "en": "Popped Chorus Fruit",
+      "jp": "焼いたコーラスフルーツ"
+    },
+    {
+      "en": "Potato",
+      "jp": "ジャガイモ"
+    },
+    {
+      "en": "Powder Snow Bucket",
+      "jp": "粉雪入りバケツ"
+    },
+    {
+      "en": "Prismarine Crystals",
+      "jp": "プリズマリンクリスタル"
+    },
+    {
+      "en": "Prismarine Shard",
+      "jp": "プリズマリンの欠片"
+    },
+    {
+      "en": "Prize Pottery Sherd",
+      "jp": "宝物の壺の欠片"
+    },
+    {
+      "en": "Pufferfish",
+      "jp": "フグ"
+    },
+    {
+      "en": "Pumpkin Pie",
+      "jp": "パンプキンパイ"
+    },
+    {
+      "en": "Pumpkin Seeds",
+      "jp": "カボチャの種"
+    },
+    {
+      "en": "Purple Bundle",
+      "jp": "紫色のバンドル"
+    },
+    {
+      "en": "Purple Dye",
+      "jp": "紫色の染料"
+    },
+    {
+      "en": "Purple Harness",
+      "jp": "紫色のハーネス"
+    },
+    {
+      "en": "Rabbit Hide",
+      "jp": "ウサギの皮"
+    },
+    {
+      "en": "Rabbit Stew",
+      "jp": "ウサギシチュー"
+    },
+    {
+      "en": "Rabbit's Foot",
+      "jp": "ウサギの足"
+    },
+    {
+      "en": "Raiser Armor Trim",
+      "jp": "牧者風の装飾"
+    },
+    {
+      "en": "Raw Beef",
+      "jp": "生の牛肉"
+    },
+    {
+      "en": "Raw Chicken",
+      "jp": "生の鶏肉"
+    },
+    {
+      "en": "Raw Cod",
+      "jp": "生鱈"
+    },
+    {
+      "en": "Raw Copper",
+      "jp": "銅の原石"
+    },
+    {
+      "en": "Raw Gold",
+      "jp": "金の原石"
+    },
+    {
+      "en": "Raw Iron",
+      "jp": "鉄の原石"
+    },
+    {
+      "en": "Raw Mutton",
+      "jp": "生の羊肉"
+    },
+    {
+      "en": "Raw Porkchop",
+      "jp": "生の豚肉"
+    },
+    {
+      "en": "Raw Rabbit",
+      "jp": "生の兎肉"
+    },
+    {
+      "en": "Raw Salmon",
+      "jp": "生鮭"
+    },
+    {
+      "en": "Recovery Compass",
+      "jp": "リカバリーコンパス"
+    },
+    {
+      "en": "Red Bundle",
+      "jp": "赤色のバンドル"
+    },
+    {
+      "en": "Red Dye",
+      "jp": "赤色の染料"
+    },
+    {
+      "en": "Red Harness",
+      "jp": "赤色のハーネス"
+    },
+    {
+      "en": "Redstone Dust",
+      "jp": "レッドストーンダスト"
+    },
+    {
+      "en": "Resin Brick",
+      "jp": "樹脂レンガ"
+    },
+    {
+      "en": "Rib Armor Trim",
+      "jp": "あばら模様の装飾"
+    },
+    {
+      "en": "Rotten Flesh",
+      "jp": "腐った肉"
+    },
+    {
+      "en": "Saddle",
+      "jp": "鞍"
+    },
+    {
+      "en": "Scrape Pottery Sherd",
+      "jp": "斧の壺の欠片"
+    },
+    {
+      "en": "Sentry Armor Trim",
+      "jp": "略奪者風の装飾"
+    },
+    {
+      "en": "Shaper Armor Trim",
+      "jp": "職人風の装飾"
+    },
+    {
+      "en": "Sheaf Pottery Sherd",
+      "jp": "麦束の壺の欠片"
+    },
+    {
+      "en": "Shears",
+      "jp": "ハサミ"
+    },
+    {
+      "en": "Shelter Pottery Sherd",
+      "jp": "木陰の壺の欠片"
+    },
+    {
+      "en": "Shield",
+      "jp": "盾"
+    },
+    {
+      "en": "Shulker Shell",
+      "jp": "シュルカーの殻"
+    },
+    {
+      "en": "Silence Armor Trim",
+      "jp": "静寂の装飾"
+    },
+    {
+      "en": "Skull Charge Banner Pattern",
+      "jp": "骸骨の旗の模様"
+    },
+    {
+      "en": "Skull Pottery Sherd",
+      "jp": "頭蓋骨の壺の欠片"
+    },
+    {
+      "en": "Slimeball",
+      "jp": "スライムボール"
+    },
+    {
+      "en": "Snort Pottery Sherd",
+      "jp": "鼻を鳴らす動物の壺の欠片"
+    },
+    {
+      "en": "Snout Armor Trim",
+      "jp": "ブタの鼻風の装飾"
+    },
+    {
+      "en": "Snout Banner Pattern",
+      "jp": "ブタの鼻の旗の模様"
+    },
+    {
+      "en": "Snowball",
+      "jp": "雪玉"
+    },
+    {
+      "en": "Spectral Arrow",
+      "jp": "光の矢‌"
+    },
+    {
+      "en": "Spider Eye",
+      "jp": "クモの目"
+    },
+    {
+      "en": "Spire Armor Trim",
+      "jp": "尖塔風の装飾"
+    },
+    {
+      "en": "Splash Potion",
+      "jp": "スプラッシュポーション"
+    },
+    {
+      "en": "Spruce Boat",
+      "jp": "トウヒのボート"
+    },
+    {
+      "en": "Spruce Boat with Chest",
+      "jp": "チェスト付きのトウヒのボート"
+    },
+    {
+      "en": "Spyglass",
+      "jp": "望遠鏡"
+    },
+    {
+      "en": "Steak",
+      "jp": "ステーキ"
+    },
+    {
+      "en": "Stick",
+      "jp": "棒"
+    },
+    {
+      "en": "Stone Axe",
+      "jp": "石の斧"
+    },
+    {
+      "en": "Stone Hoe",
+      "jp": "石のクワ"
+    },
+    {
+      "en": "Stone Pickaxe",
+      "jp": "石のツルハシ"
+    },
+    {
+      "en": "Stone Shovel",
+      "jp": "石のシャベル"
+    },
+    {
+      "en": "Stone Spear",
+      "jp": "石の槍"
+    },
+    {
+      "en": "Stone Sword",
+      "jp": "石の剣"
+    },
+    {
+      "en": "String",
+      "jp": "糸"
+    },
+    {
+      "en": "Sugar",
+      "jp": "砂糖"
+    },
+    {
+      "en": "Suspicious Stew",
+      "jp": "怪しげなシチュー"
+    },
+    {
+      "en": "Sweet Berries",
+      "jp": "スイートベリー"
+    },
+    {
+      "en": "Thing Banner Pattern",
+      "jp": "何かの旗の模様"
+    },
+    {
+      "en": "Tide Armor Trim",
+      "jp": "潮流風の装飾"
+    },
+    {
+      "en": "Tipped Arrow",
+      "jp": "効能付きの矢"
+    },
+    {
+      "en": "Torchflower Seeds",
+      "jp": "トーチフラワーの種"
+    },
+    {
+      "en": "Totem of Undying",
+      "jp": "不死のトーテム"
+    },
+    {
+      "en": "Trial Key",
+      "jp": "試練の鍵"
+    },
+    {
+      "en": "Trident",
+      "jp": "トライデント"
+    },
+    {
+      "en": "Tropical Fish",
+      "jp": "熱帯魚"
+    },
+    {
+      "en": "Turtle Scute",
+      "jp": "カメのウロコ"
+    },
+    {
+      "en": "Turtle Shell",
+      "jp": "カメの甲羅"
+    },
+    {
+      "en": "Vex Armor Trim",
+      "jp": "ヴェックス風の装飾"
+    },
+    {
+      "en": "Ward Armor Trim",
+      "jp": "監獄風の装飾"
+    },
+    {
+      "en": "Warped Fungus on a Stick",
+      "jp": "歪んだキノコ付きの棒"
+    },
+    {
+      "en": "Water Bottle",
+      "jp": "水入り瓶"
+    },
+    {
+      "en": "Water Bucket",
+      "jp": "水入りバケツ"
+    },
+    {
+      "en": "Wayfinder Armor Trim",
+      "jp": "先駆者風の装飾"
+    },
+    {
+      "en": "Wheat",
+      "jp": "小麦"
+    },
+    {
+      "en": "Wheat Seeds",
+      "jp": "小麦の種"
+    },
+    {
+      "en": "White Bundle",
+      "jp": "白色のバンドル"
+    },
+    {
+      "en": "White Dye",
+      "jp": "白色の染料"
+    },
+    {
+      "en": "White Harness",
+      "jp": "白色のハーネス"
+    },
+    {
+      "en": "Wild Armor Trim",
+      "jp": "大自然風の装飾"
+    },
+    {
+      "en": "Wind Charge",
+      "jp": "ウィンドチャージ"
+    },
+    {
+      "en": "Wolf Armor",
+      "jp": "オオカミの鎧"
+    },
+    {
+      "en": "Wooden Axe",
+      "jp": "木の斧"
+    },
+    {
+      "en": "Wooden Hoe",
+      "jp": "木のクワ"
+    },
+    {
+      "en": "Wooden Pickaxe",
+      "jp": "木のツルハシ"
+    },
+    {
+      "en": "Wooden Shovel",
+      "jp": "木のシャベル"
+    },
+    {
+      "en": "Wooden Spear",
+      "jp": "木の槍"
+    },
+    {
+      "en": "Wooden Sword",
+      "jp": "木の剣"
+    },
+    {
+      "en": "Written Book",
+      "jp": "記入済みの本"
+    },
+    {
+      "en": "Yellow Bundle",
+      "jp": "黄色のバンドル"
+    },
+    {
+      "en": "Yellow Dye",
+      "jp": "黄色の染料"
+    },
+    {
+      "en": "Yellow Harness",
+      "jp": "黄色のハーネス"
+    }
+  ]
+}
