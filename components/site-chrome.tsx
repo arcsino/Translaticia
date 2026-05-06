@@ -58,7 +58,7 @@ export function SiteFooter() {
       <div className="mx-auto flex w-full max-w-7xl flex-col items-center justify-between gap-3 px-4 py-6 text-sm text-slate-600 sm:flex-row sm:px-6 lg:px-10">
         <p>© {new Date().getFullYear()} Translaticia. All rights reserved.</p>
         <a
-          href="https://github.com/user/repo/issues"
+          href="https://github.com/arcsino/Translaticia"
           target="_blank"
           rel="noreferrer"
           className="font-semibold text-slate-900 hover:text-slate-700"
