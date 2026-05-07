@@ -382,7 +382,7 @@
     },
     {
       "en": "Block of Iron",
-      "jp": "鉄の鎖"
+      "jp": "鉄ブロック"
     },
     {
       "en": "Block of Lapis Lazuli",
@@ -650,71 +650,71 @@
     },
     {
       "en": "Cherry Button",
-      "jp": "サクラのドア"
+      "jp": "サクラのボタン"
     },
     {
       "en": "Cherry Door",
-      "jp": "サクラのフェンス"
+      "jp": "サクラのドア"
     },
     {
       "en": "Cherry Fence",
-      "jp": "サクラのフェンスゲート"
+      "jp": "サクラのフェンス"
     },
     {
       "en": "Cherry Fence Gate",
-      "jp": "サクラの吊り看板"
+      "jp": "サクラのフェンスゲート"
     },
     {
       "en": "Cherry Hanging Sign",
-      "jp": "サクラの葉"
+      "jp": "サクラの吊り看板"
     },
     {
       "en": "Cherry Leaves",
-      "jp": "サクラの原木"
+      "jp": "サクラの葉"
     },
     {
       "en": "Cherry Log",
-      "jp": "サクラの板材"
+      "jp": "サクラの原木"
     },
     {
       "en": "Cherry Planks",
-      "jp": "サクラの感圧板"
+      "jp": "サクラの板材"
     },
     {
       "en": "Cherry Pressure Plate",
-      "jp": "サクラの苗木"
+      "jp": "サクラの感圧板"
     },
     {
       "en": "Cherry Sapling",
-      "jp": "サクラの棚"
+      "jp": "サクラの苗木"
     },
     {
       "en": "Cherry Shelf",
-      "jp": "サクラの看板"
+      "jp": "サクラの棚"
     },
     {
       "en": "Cherry Sign",
-      "jp": "サクラのハーフブロック"
+      "jp": "サクラの看板"
     },
     {
       "en": "Cherry Slab",
-      "jp": "サクラの階段"
+      "jp": "サクラのハーフブロック"
     },
     {
       "en": "Cherry Stairs",
-      "jp": "サクラのトラップドア"
+      "jp": "サクラの階段"
     },
     {
       "en": "Cherry Trapdoor",
-      "jp": "サクラの木"
+      "jp": "サクラのトラップドア"
     },
     {
       "en": "Cherry Wood",
-      "jp": "チェスト"
+      "jp": "サクラの木"
     },
     {
       "en": "Chest",
-      "jp": "サクラのボタン"
+      "jp": "チェスト"
     },
     {
       "en": "Chipped Anvil",
@@ -1754,7 +1754,7 @@
     },
     {
       "en": "Iron Chain",
-      "jp": "鉄ブロック"
+      "jp": "鉄の鎖"
     },
     {
       "en": "Iron Door",
@@ -2142,15 +2142,15 @@
     },
     {
       "en": "Mangrove Planks",
-      "jp": "マングローブの芽"
-    },
-    {
-      "en": "Mangrove Pressure Plate",
       "jp": "マングローブの板材"
     },
     {
-      "en": "Mangrove Propagule",
+      "en": "Mangrove Pressure Plate",
       "jp": "マングローブの感圧板"
+    },
+    {
+      "en": "Mangrove Propagule",
+      "jp": "マングローブの芽"
     },
     {
       "en": "Mangrove Roots",
@@ -2678,15 +2678,15 @@
     },
     {
       "en": "Piston",
-      "jp": "ウツボカズラ"
+      "jp": "ピストン"
     },
     {
       "en": "Pitcher Crop",
-      "jp": "ウツボカズラ"
+      "jp": "ウツボカズラ(成長段階)"
     },
     {
       "en": "Pitcher Plant",
-      "jp": "ピストン"
+      "jp": "ウツボカズラ"
     },
     {
       "en": "Player Head",
@@ -2758,43 +2758,43 @@
     },
     {
       "en": "Polished Deepslate",
-      "jp": "磨かれた閃緑岩"
-    },
-    {
-      "en": "Polished Deepslate Slab",
-      "jp": "磨かれた閃緑岩のハーフブロック"
-    },
-    {
-      "en": "Polished Deepslate Stairs",
-      "jp": "磨かれた閃緑岩の階段"
-    },
-    {
-      "en": "Polished Deepslate Wall",
-      "jp": "磨かれた花崗岩"
-    },
-    {
-      "en": "Polished Diorite",
-      "jp": "磨かれた花崗岩のハーフブロック"
-    },
-    {
-      "en": "Polished Diorite Slab",
-      "jp": "磨かれた花崗岩の階段"
-    },
-    {
-      "en": "Polished Diorite Stairs",
       "jp": "磨かれた深層岩"
     },
     {
-      "en": "Polished Granite",
+      "en": "Polished Deepslate Slab",
       "jp": "磨かれた深層岩のハーフブロック"
     },
     {
-      "en": "Polished Granite Slab",
+      "en": "Polished Deepslate Stairs",
       "jp": "磨かれた深層岩の階段"
     },
     {
-      "en": "Polished Granite Stairs",
+      "en": "Polished Deepslate Wall",
       "jp": "磨かれた深層岩の塀"
+    },
+    {
+      "en": "Polished Diorite",
+      "jp": "磨かれた閃緑岩"
+    },
+    {
+      "en": "Polished Diorite Slab",
+      "jp": "磨かれた閃緑岩のハーフブロック"
+    },
+    {
+      "en": "Polished Diorite Stairs",
+      "jp": "磨かれた閃緑岩の階段"
+    },
+    {
+      "en": "Polished Granite",
+      "jp": "磨かれた花崗岩"
+    },
+    {
+      "en": "Polished Granite Slab",
+      "jp": "磨かれた花崗岩のハーフブロック"
+    },
+    {
+      "en": "Polished Granite Stairs",
+      "jp": "磨かれた閃緑岩の階段"
     },
     {
       "en": "Polished Tuff",
@@ -3078,19 +3078,19 @@
     },
     {
       "en": "Resin Brick Slab",
-      "jp": "樹脂レンガ"
-    },
-    {
-      "en": "Resin Brick Stairs",
       "jp": "樹脂レンガのハーフブロック"
     },
     {
-      "en": "Resin Brick Wall",
+      "en": "Resin Brick Stairs",
       "jp": "樹脂レンガの階段"
     },
     {
-      "en": "Resin Bricks",
+      "en": "Resin Brick Wall",
       "jp": "樹脂レンガの塀"
+    },
+    {
+      "en": "Resin Bricks",
+      "jp": "樹脂レンガ"
     },
     {
       "en": "Resin Clump",
@@ -3166,11 +3166,11 @@
     },
     {
       "en": "Short Dry Grass",
-      "jp": "背の低い草"
+      "jp": "背の低い枯れ草"
     },
     {
       "en": "Short Grass",
-      "jp": "背の低い枯れ草"
+      "jp": "背の低い草"
     },
     {
       "en": "Shroomlight",
@@ -5072,7 +5072,7 @@
     },
     {
       "en": "Glass Bottle",
-      "jp": "ヤギの角笛"
+      "jp": "ガラス瓶"
     },
     {
       "en": "Glistering Melon Slice",
@@ -5088,7 +5088,7 @@
     },
     {
       "en": "Glow Ink Sac",
-      "jp": "ガラス瓶"
+      "jp": "輝くイカスミ"
     },
     {
       "en": "Glow Item Frame",
@@ -5100,7 +5100,7 @@
     },
     {
       "en": "Goat Horn",
-      "jp": "輝くイカスミ"
+      "jp": "ヤギの角笛"
     },
     {
       "en": "Gold Ingot",
@@ -5471,88 +5471,88 @@
       "jp": "キノコシチュー"
     },
     {
-      "en": "Music Disc (11)",
-      "jp": "レコード（11）"
+      "en": "Music Disc(11)",
+      "jp": "レコード(11)"
     },
     {
-      "en": "Music Disc (13)",
-      "jp": "レコード（13）"
+      "en": "Music Disc(13)",
+      "jp": "レコード(13)"
     },
     {
-      "en": "Music Disc (5)",
-      "jp": "レコード（5）"
+      "en": "Music Disc(5)",
+      "jp": "レコード(5)"
     },
     {
-      "en": "Music Disc (blocks)",
-      "jp": "レコード（blocks）"
+      "en": "Music Disc(blocks)",
+      "jp": "レコード(blocks)"
     },
     {
-      "en": "Music Disc (cat)",
-      "jp": "レコード（cat）"
+      "en": "Music Disc(cat)",
+      "jp": "レコード(cat)"
     },
     {
-      "en": "Music Disc (chirp)",
-      "jp": "レコード（chirp）"
+      "en": "Music Disc(chirp)",
+      "jp": "レコード(chirp)"
     },
     {
-      "en": "Music Disc (Creator (Music Box))",
-      "jp": "レコード（Creator（オルゴール））"
+      "en": "Music Disc(Creator(Music Box))",
+      "jp": "レコード(Creator(オルゴール))"
     },
     {
-      "en": "Music Disc (Creator)",
-      "jp": "レコード（Creator）"
+      "en": "Music Disc(Creator)",
+      "jp": "レコード(Creator)"
     },
     {
-      "en": "Music Disc (far)",
-      "jp": "レコード（far）"
+      "en": "Music Disc(far)",
+      "jp": "レコード(far)"
     },
     {
-      "en": "Music Disc (Lava Chicken)",
-      "jp": "レコード（Lava Chicken）"
+      "en": "Music Disc(Lava Chicken)",
+      "jp": "レコード(Lava Chicken)"
     },
     {
-      "en": "Music Disc (mall)",
-      "jp": "レコード（mall）"
+      "en": "Music Disc(mall)",
+      "jp": "レコード(mall)"
     },
     {
-      "en": "Music Disc (mellohi)",
-      "jp": "レコード（mellohi）"
+      "en": "Music Disc(mellohi)",
+      "jp": "レコード(mellohi)"
     },
     {
-      "en": "Music Disc (otherside)",
-      "jp": "レコード（otherside）"
+      "en": "Music Disc(otherside)",
+      "jp": "レコード(otherside)"
     },
     {
-      "en": "Music Disc (Pigstep)",
-      "jp": "レコード（Pigstep）"
+      "en": "Music Disc(Pigstep)",
+      "jp": "レコード(Pigstep)"
     },
     {
-      "en": "Music Disc (Precipice)",
-      "jp": "レコード（Precipice）"
+      "en": "Music Disc(Precipice)",
+      "jp": "レコード(Precipice)"
     },
     {
-      "en": "Music Disc (Relic)",
-      "jp": "レコード（Relic）"
+      "en": "Music Disc(Relic)",
+      "jp": "レコード(Relic)"
     },
     {
-      "en": "Music Disc (stal)",
-      "jp": "レコード（stal）"
+      "en": "Music Disc(stal)",
+      "jp": "レコード(stal)"
     },
     {
-      "en": "Music Disc (strad)",
-      "jp": "レコード（strad）"
+      "en": "Music Disc(strad)",
+      "jp": "レコード(strad)"
     },
     {
-      "en": "Music Disc (Tears)",
-      "jp": "レコード (Tears)"
+      "en": "Music Disc(Tears)",
+      "jp": "レコード(Tears)"
     },
     {
-      "en": "Music Disc (wait)",
-      "jp": "レコード（wait）"
+      "en": "Music Disc(wait)",
+      "jp": "レコード(wait)"
     },
     {
-      "en": "Music Disc (ward)",
-      "jp": "レコード（ward）"
+      "en": "Music Disc(ward)",
+      "jp": "レコード(ward)"
     },
     {
       "en": "Name Tag",
